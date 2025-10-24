@@ -29,7 +29,7 @@
 	<title>Groceria</title>
 	<link>https://groceria.madrasthemes.com</link>
 	<description>Grocery Store WooCommerce Theme</description>
-	<pubDate>Thu, 23 Oct 2025 13:17:48 +0000</pubDate>
+	<pubDate>Fri, 24 Oct 2025 07:17:30 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://groceria.madrasthemes.com</wp:base_site_url>
@@ -8743,7 +8743,7 @@
 <!-- /wp:buttons --></div>
 <!-- /wp:group -->
 
-<!-- wp:query {"queryId":13,"query":{"perPage":4,"pages":0,"offset":0,"postType":"post","order":"asc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false,"parents":[],"format":[],"taxQuery":{"post_tag":[322]}},"layout":{"type":"default"}} -->
+<!-- wp:query {"queryId":13,"query":{"perPage":4,"pages":0,"offset":0,"postType":"post","order":"asc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false,"parents":[],"format":[],"taxQuery":{"post_tag":[]}},"layout":{"type":"default"}} -->
 <div class="wp-block-query"><!-- wp:post-template {"className":"!grid  max-lg:!grid-cols-2 max-md:!grid-cols-1","style":{"spacing":{"blockGap":"var:preset|spacing|5"}},"layout":{"type":"grid","columnCount":4,"minimumColumnWidth":null}} -->
 <!-- wp:post-featured-image {"isLink":true,"width":"","height":"380px","style":{"border":{"radius":"12px"}}} /-->
 
@@ -8977,8 +8977,8 @@
 		<wp:post_id>2567</wp:post_id>
 		<wp:post_date><![CDATA[2025-09-22 15:58:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-09-22 15:58:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-23 13:14:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-23 13:14:13]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-10-24 07:04:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-24 07:04:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-v1]]></wp:post_name>
@@ -9227,7 +9227,7 @@
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"categories":["theme-groceria"],"patternName":"groceria/home-v2-hero","name":"Hero"},"style":{"spacing":{"margin":{"top":"var:preset|spacing|0"},"padding":{"top":"var:preset|spacing|8","bottom":"var:preset|spacing|8"}}},"layout":{"type":"constrained","contentSize":"100rem","justifyContent":"center"}} -->
+<!-- wp:group {"metadata":{"categories":["theme-groceria","call-to-action"],"patternName":"groceria/home-v2-hero","name":"Hero"},"style":{"spacing":{"margin":{"top":"var:preset|spacing|0"},"padding":{"top":"var:preset|spacing|8","bottom":"var:preset|spacing|8"}}},"layout":{"type":"constrained","contentSize":"100rem","justifyContent":"center"}} -->
 <div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--0);padding-top:var(--wp--preset--spacing--8);padding-bottom:var(--wp--preset--spacing--8)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|5"}},"layout":{"type":"flex","flexWrap":"wrap","orientation":"horizontal"}} -->
 <div class="wp-block-group"><!-- wp:cover {"url":"https://groceria.madrasthemes.com/wp-content/themes/groceria/assets/images/hero-covers/home-v2-hero.webp","dimRatio":0,"customOverlayColor":"#d3cabd","isUserOverlayColor":false,"minHeight":502,"isDark":false,"sizeSlug":"large","className":"max-md:!px-6 max-md:!h-auto","style":{"border":{"radius":"12px"},"spacing":{"padding":{"top":"var:preset|spacing|8","bottom":"var:preset|spacing|8","left":"3.75rem","right":"3.75rem"},"blockGap":"var:preset|spacing|3"},"layout":{"selfStretch":"fill","flexSize":null}},"layout":{"type":"default"}} -->
 <div class="wp-block-cover is-light max-md:!px-6 max-md:!h-auto" style="border-radius:12px;padding-top:var(--wp--preset--spacing--8);padding-right:3.75rem;padding-bottom:var(--wp--preset--spacing--8);padding-left:3.75rem;min-height:502px"><img class="wp-block-cover__image-background size-large" alt="" src="https://groceria.madrasthemes.com/wp-content/themes/groceria/assets/images/hero-covers/home-v2-hero.webp" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#d3cabd"></span><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"left","placeholder":"Write title…","style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"500","lineHeight":"1.5"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontSize":"sm-plus"} -->
@@ -9235,7 +9235,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":1,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"textTransform":"capitalize","fontStyle":"normal","fontWeight":"600","fontSize":"40px","lineHeight":"1.35"}},"textColor":"primary"} -->
-<h1 class="wp-block-heading has-primary-color has-text-color has-link-color" style="font-size:40px;font-style:normal;font-weight:600;line-height:1.35;text-transform:capitalize">From Nature's<br>&nbsp;Heart to Your Table</h1>
+<h1 class="wp-block-heading has-primary-color has-text-color has-link-color" style="font-size:40px;font-style:normal;font-weight:600;line-height:1.35;text-transform:capitalize">From Nature's<br>Heart to Your Table</h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"fontStyle":"normal","fontWeight":"500","lineHeight":"1.75"}},"textColor":"primary","fontSize":"sm-plus"} -->
@@ -9249,16 +9249,14 @@
 <!-- /wp:buttons --></div></div>
 <!-- /wp:cover -->
 
-<!-- wp:group {"className":"max-lg:!w-full","style":{"color":{"background":"#f1e3c9"},"spacing":{"padding":{"top":"var:preset|spacing|6","bottom":"1.88rem","left":"21px","right":"21px"},"blockGap":"var:preset|spacing|2"},"border":{"radius":"12px"},"dimensions":{"minHeight":"502px"}},"layout":{"type":"flex","orientation":"vertical","verticalAlignment":"center","justifyContent":"center"}} -->
-<div class="wp-block-group max-lg:!w-full has-background" style="border-radius:12px;background-color:#f1e3c9;min-height:502px;padding-top:var(--wp--preset--spacing--6);padding-right:21px;padding-bottom:1.88rem;padding-left:21px"><!-- wp:paragraph {"align":"center","style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"500","lineHeight":"1.5"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontSize":"sm-plus"} -->
+<!-- wp:group {"className":"max-lg:!w-full","style":{"color":{"background":"#f1e3c9"},"spacing":{"padding":{"top":"var:preset|spacing|6","bottom":"1.88rem","left":"21px","right":"21px"},"blockGap":"var:preset|spacing|2"},"border":{"radius":"12px"}},"layout":{"type":"flex","orientation":"vertical","verticalAlignment":"center","justifyContent":"center"}} -->
+<div class="wp-block-group max-lg:!w-full has-background" style="border-radius:12px;background-color:#f1e3c9;padding-top:var(--wp--preset--spacing--6);padding-right:21px;padding-bottom:1.88rem;padding-left:21px"><!-- wp:paragraph {"align":"center","style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"500","lineHeight":"1.5"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontSize":"sm-plus"} -->
 <p class="has-text-align-center has-primary-color has-text-color has-link-color has-sm-plus-font-size" style="font-style:normal;font-weight:500;line-height:1.5;text-transform:uppercase">Limited Time Offer</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4","left":"var:preset|spacing|8","right":"var:preset|spacing|8"}},"border":{"radius":"4px"}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-white-background-color has-background" style="border-radius:4px;padding-top:var(--wp--preset--spacing--4);padding-right:var(--wp--preset--spacing--8);padding-bottom:var(--wp--preset--spacing--4);padding-left:var(--wp--preset--spacing--8)"><!-- wp:stackable/countdown {"hasDivider":true,"dividerSizeColon":18,"dividerTopOffset":-3,"uniqueId":"2d68cc1","digitFontWeight":"700","digitFontSize":"18","labelFontSize":"0","boxGap":10,"labelMarginTop":0,"className":"!mb-0"} -->
-<div class="wp-block-stackable-countdown stk-block-countdown stk-block stk-2d68cc1 !mb-0" data-stk-countdown-date="2025-11-14T09:38" data-stk-countdown-duration="" data-stk-countdown-restart-interval="" data-stk-countdown-type="dueDate" data-stk-countdown-action="" data-stk-countdown-timezone="" data-stk-countdown-is-double-digit="false" data-v="2" data-block-id="2d68cc1"><div class="stk-block-countdown__container"><style>.stk-2d68cc1.stk-block-countdown .stk-block-countdown__container{gap:10px !important;}.stk-2d68cc1 .stk-block-countdown__label{margin-top:0px !important;font-size:0px !important;}.stk-2d68cc1 .stk-block-countdown__divider-colon{font-size:18px !important;top:-3px !important;}.stk-2d68cc1 .stk-block-countdown__digit{font-size:18px !important;font-weight:700 !important;}@media screen and (max-width: 1023px){.stk-2d68cc1 .stk-block-countdown__digit{font-size:18px !important;}.stk-2d68cc1 .stk-block-countdown__label{font-size:0px !important;}}</style><div class="stk-block-countdown__content-container stk-container stk-2d68cc1-container stk--no-background stk--no-padding"><div class="stk-block-countdown__container-wrapper"><div class="stk-block-countdown__digit stk-block-countdown__digit-day"></div><p class="stk-block-countdown__label-day stk-block-countdown__label"></p></div></div><div class="stk-block-countdown__divider-wrapper"><div class="stk-block-countdown__divider-colon">:</div></div><div class="stk-block-countdown__content-container stk-container stk-2d68cc1-container stk--no-background stk--no-padding"><div class="stk-block-countdown__container-wrapper"><div class="stk-block-countdown__digit stk-block-countdown__digit-hour"></div><p class="stk-block-countdown__label-hour stk-block-countdown__label"></p></div></div><div class="stk-block-countdown__divider-wrapper"><div class="stk-block-countdown__divider-colon">:</div></div><div class="stk-block-countdown__content-container stk-container stk-2d68cc1-container stk--no-background stk--no-padding"><div class="stk-block-countdown__container-wrapper"><div class="stk-block-countdown__digit stk-block-countdown__digit-minute"></div><p class="stk-block-countdown__label-minute stk-block-countdown__label"></p></div></div><div class="stk-block-countdown__divider-wrapper"><div class="stk-block-countdown__divider-colon">:</div></div><div class="stk-block-countdown__content-container stk-container stk-2d68cc1-container stk--no-background stk--no-padding"><div class="stk-block-countdown__container-wrapper"><div class="stk-block-countdown__digit stk-block-countdown__digit-second"></div><p class="stk-block-countdown__label-second stk-block-countdown__label"></p></div></div></div></div>
-<!-- /wp:stackable/countdown --></div>
-<!-- /wp:group -->
+<!-- wp:heading {"textAlign":"center","className":"shadow-xl","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":"1.8"},"spacing":{"padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|4","left":"var:preset|spacing|8","right":"var:preset|spacing|8"},"margin":{"bottom":"var:preset|spacing|3"}},"border":{"radius":"4px"}},"backgroundColor":"white","textColor":"primary","fontSize":"base"} -->
+<h2 class="wp-block-heading has-text-align-center shadow-xl has-primary-color has-white-background-color has-text-color has-background has-link-color has-base-font-size" style="border-radius:4px;margin-bottom:var(--wp--preset--spacing--3);padding-top:var(--wp--preset--spacing--4);padding-right:var(--wp--preset--spacing--8);padding-bottom:var(--wp--preset--spacing--4);padding-left:var(--wp--preset--spacing--8);font-style:normal;font-weight:600;line-height:1.8">OFFER ENDS TODAY</h2>
+<!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"13px"},"spacing":{"margin":{"bottom":"var:preset|spacing|3"}}}} -->
 <p class="has-text-align-center" style="margin-bottom:var(--wp--preset--spacing--3);font-size:13px">Terms and Conditions Apply*</p>
@@ -9920,8 +9918,7 @@
 
 <!-- wp:buttons {"style":{"spacing":{"padding":{"top":"var:preset|spacing|6","bottom":"var:preset|spacing|7"}}}} -->
 <div class="wp-block-buttons" style="padding-top:var(--wp--preset--spacing--6);padding-bottom:var(--wp--preset--spacing--7)"><!-- wp:button {"className":"is-style-button-link"} -->
-<div class="wp-block-button is-style-button-link"><a class="wp-block-button__link wp-element-button" href="/shop">discover More<svg width="14" height="15" viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg">
-								<path d="M7.32812 3.5293L11.2656 7.4668L7.32812 11.4043M10.7188 7.4668H2.73438" stroke="#003B22" stroke-linecap="round" stroke-linejoin="round"></path></svg></a></div>
+<div class="wp-block-button is-style-button-link"><a class="wp-block-button__link wp-element-button" href="/shop">discover More	<path d="M7.32812 3.5293L11.2656 7.4668L7.32812 11.4043M10.7188 7.4668H2.73438" stroke="#003B22" stroke-linecap="round" stroke-linejoin="round"></path></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></details>
 <!-- /wp:details --></div>
@@ -9935,8 +9932,7 @@
 
 <!-- wp:buttons {"style":{"spacing":{"padding":{"top":"var:preset|spacing|6","bottom":"var:preset|spacing|7"}}}} -->
 <div class="wp-block-buttons" style="padding-top:var(--wp--preset--spacing--6);padding-bottom:var(--wp--preset--spacing--7)"><!-- wp:button {"className":"is-style-button-link"} -->
-<div class="wp-block-button is-style-button-link"><a class="wp-block-button__link wp-element-button" href="/shop">discover More<svg width="14" height="15" viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg">
-								<path d="M7.32812 3.5293L11.2656 7.4668L7.32812 11.4043M10.7188 7.4668H2.73438" stroke="#003B22" stroke-linecap="round" stroke-linejoin="round"></path></svg></a></div>
+<div class="wp-block-button is-style-button-link"><a class="wp-block-button__link wp-element-button" href="/shop">discover More</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></details>
 <!-- /wp:details --></div>
@@ -9950,8 +9946,7 @@
 
 <!-- wp:buttons {"style":{"spacing":{"padding":{"top":"var:preset|spacing|6","bottom":"var:preset|spacing|7"}}}} -->
 <div class="wp-block-buttons" style="padding-top:var(--wp--preset--spacing--6);padding-bottom:var(--wp--preset--spacing--7)"><!-- wp:button {"className":"is-style-button-link"} -->
-<div class="wp-block-button is-style-button-link"><a class="wp-block-button__link wp-element-button" href="/shop">discover More<svg width="14" height="15" viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg">
-								<path d="M7.32812 3.5293L11.2656 7.4668L7.32812 11.4043M10.7188 7.4668H2.73438" stroke="#003B22" stroke-linecap="round" stroke-linejoin="round"></path></svg></a></div>
+<div class="wp-block-button is-style-button-link"><a class="wp-block-button__link wp-element-button" href="/shop">discover More<path d="M7.32812 3.5293L11.2656 7.4668L7.32812 11.4043M10.7188 7.4668H2.73438" stroke="#003B22" stroke-linecap="round" stroke-linejoin="round"></path></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></details>
 <!-- /wp:details --></div>
@@ -10384,8 +10379,8 @@
 		<wp:post_id>2574</wp:post_id>
 		<wp:post_date><![CDATA[2025-09-23 05:14:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-09-23 05:14:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-23 13:14:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-23 13:14:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-10-24 06:57:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-24 06:57:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-v2]]></wp:post_name>
@@ -10401,11 +10396,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[stackable_optimized_css]]></wp:meta_key>
-		<wp:meta_value><![CDATA[.stk-2d68cc1.stk-block-countdown .stk-block-countdown__container{gap:10px !important;}.stk-2d68cc1 .stk-block-countdown__label{margin-top:0px !important;font-size:0px !important;}.stk-2d68cc1 .stk-block-countdown__divider-colon{font-size:18px !important;top:-3px !important;}.stk-2d68cc1 .stk-block-countdown__digit{font-size:18px !important;font-weight:700 !important;}@media screen and (max-width:1023px){.stk-2d68cc1 .stk-block-countdown__digit{font-size:18px !important;}.stk-2d68cc1 .stk-block-countdown__label{font-size:0px !important;}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[stackable_optimized_css_raw]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:7:"2d68cc1";a:1:{i:0;a:2:{i:0;s:559:"<style>.stk-2d68cc1.stk-block-countdown .stk-block-countdown__container{gap:10px !important;}.stk-2d68cc1 .stk-block-countdown__label{margin-top:0px !important;font-size:0px !important;}.stk-2d68cc1 .stk-block-countdown__divider-colon{font-size:18px !important;top:-3px !important;}.stk-2d68cc1 .stk-block-countdown__digit{font-size:18px !important;font-weight:700 !important;}@media screen and (max-width: 1023px){.stk-2d68cc1 .stk-block-countdown__digit{font-size:18px !important;}.stk-2d68cc1 .stk-block-countdown__label{font-size:0px !important;}}</style>";i:1;s:544:".stk-2d68cc1.stk-block-countdown .stk-block-countdown__container{gap:10px !important;}.stk-2d68cc1 .stk-block-countdown__label{margin-top:0px !important;font-size:0px !important;}.stk-2d68cc1 .stk-block-countdown__divider-colon{font-size:18px !important;top:-3px !important;}.stk-2d68cc1 .stk-block-countdown__digit{font-size:18px !important;font-weight:700 !important;}@media screen and (max-width: 1023px){.stk-2d68cc1 .stk-block-countdown__digit{font-size:18px !important;}.stk-2d68cc1 .stk-block-countdown__label{font-size:0px !important;}}";}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -10824,7 +10819,7 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|16","bottom":"var:preset|spacing|30"},"padding":{"top":"var:preset|spacing|2","bottom":"var:preset|spacing|14"}}},"layout":{"type":"constrained","contentSize":"103rem"}} -->
-<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--16);margin-bottom:var(--wp--preset--spacing--30);padding-top:var(--wp--preset--spacing--2);padding-bottom:var(--wp--preset--spacing--14)"><!-- wp:woocommerce/product-collection {"queryId":11,"query":{"perPage":4,"pages":0,"offset":0,"postType":"product","order":"asc","orderBy":"title","search":"","exclude":[],"inherit":false,"taxQuery":[],"isProductCollectionBlock":true,"featured":false,"woocommerceOnSale":false,"woocommerceStockStatus":["instock","outofstock","onbackorder"],"woocommerceAttributes":[],"woocommerceHandPickedProducts":[],"filterable":false,"relatedBy":{"categories":true,"tags":true}},"tagName":"div","displayLayout":{"type":"flex","columns":4,"shrinkColumns":true},"dimensions":{"widthType":"fill"},"queryContextIncludes":["collection"],"__privatePreviewState":{"isPreview":false,"previewMessage":"Actual products will vary depending on the page being viewed."}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--16);margin-bottom:var(--wp--preset--spacing--30);padding-top:var(--wp--preset--spacing--2);padding-bottom:var(--wp--preset--spacing--14)"><!-- wp:woocommerce/product-collection {"queryId":7,"query":{"perPage":4,"pages":0,"offset":0,"postType":"product","order":"asc","orderBy":"title","search":"","exclude":[],"inherit":false,"taxQuery":[],"isProductCollectionBlock":true,"featured":false,"woocommerceOnSale":false,"woocommerceStockStatus":["instock","outofstock","onbackorder"],"woocommerceAttributes":[],"woocommerceHandPickedProducts":[],"filterable":false,"relatedBy":{"categories":true,"tags":true}},"tagName":"div","displayLayout":{"type":"flex","columns":4,"shrinkColumns":true},"dimensions":{"widthType":"fill"},"queryContextIncludes":["collection"],"__privatePreviewState":{"isPreview":false,"previewMessage":"Actual products will vary depending on the page being viewed."}} -->
 <div class="wp-block-woocommerce-product-collection"><!-- wp:woocommerce/product-template {"className":"grid !grid-cols-1 sm:!grid-cols-2 xl:!grid-cols-4 !gap-5"} -->
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"0.94rem","bottom":"0.94rem","left":"0.94rem","right":"0.94rem"},"blockGap":"var:preset|spacing|5"},"border":{"radius":"0.75rem"}},"backgroundColor":"white","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group has-white-background-color has-background" style="border-radius:0.75rem;padding-top:0.94rem;padding-right:0.94rem;padding-bottom:0.94rem;padding-left:0.94rem"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|5"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
@@ -11253,7 +11248,7 @@
 
 <!-- wp:buttons {"metadata":{"name":"Discover More Button"},"className":"is-style-button-light","layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons is-style-button-light"><!-- wp:button {"className":"is-style-button-light","style":{"shadow":"none"},"borderColor":"white"} -->
-<div class="wp-block-button is-style-button-light"><a class="wp-block-button__link has-border-color has-white-border-color wp-element-button" href="/" style="box-shadow:none">Discover More<svg class="ml-2" xmlns="http://www.w3.org/2000/svg" width="11" height="10" viewBox="0 0 11 10" fill="none"><path d="M5.82812 1.0625L9.76562 5L5.82812 8.9375M9.21875 5H1.23438" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path></svg></a></div>
+<div class="wp-block-button is-style-button-light"><a class="wp-block-button__link has-border-color has-white-border-color wp-element-button" href="/" style="box-shadow:none">Discover More</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>
@@ -11517,8 +11512,8 @@
 		<wp:post_id>2576</wp:post_id>
 		<wp:post_date><![CDATA[2025-09-23 05:34:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-09-23 05:34:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-23 13:15:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-23 13:15:47]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-10-24 06:59:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-24 06:59:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-v3]]></wp:post_name>
@@ -12473,7 +12468,7 @@
 
 <!-- wp:query {"queryId":13,"query":{"perPage":3,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"exclude","inherit":false,"parents":[],"format":[]},"layout":{"type":"default"}} -->
 <div class="wp-block-query"><!-- wp:post-template {"style":{"spacing":{"blockGap":"var:preset|spacing|5"}},"layout":{"type":"grid","columnCount":3,"minimumColumnWidth":null}} -->
-<!-- wp:post-featured-image {"isLink":true,"style":{"border":{"radius":"12px"}}} /-->
+<!-- wp:post-featured-image {"isLink":true,"height":"255px","style":{"border":{"radius":"12px"}}} /-->
 
 <!-- wp:post-title {"isLink":true,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":"1.67"},"spacing":{"padding":{"top":"var:preset|spacing|2-5"}}},"textColor":"primary","fontSize":"lg"} /-->
 
@@ -12741,8 +12736,8 @@
 		<wp:post_id>2579</wp:post_id>
 		<wp:post_date><![CDATA[2025-09-23 05:43:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-09-23 05:43:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-23 13:16:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-23 13:16:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-10-24 07:12:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-24 07:12:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-v4]]></wp:post_name>
@@ -13503,16 +13498,29 @@
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"categories":["theme-groceria"],"patternName":"groceria/contact-store","name":"Contact Store"},"align":"full","style":{"spacing":{"blockGap":"0","margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0"><!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
-<div class="wp-block-group alignwide"><!-- wp:stackable/tabs {"uniqueId":"3772638","innerBlockContentAlign":"alignwide","tabPanelOffset":3,"align":"wide"} -->
-<div class="wp-block-stackable-tabs alignwide stk-block-tabs stk-block stk-3772638" data-initial-tab="1" data-block-id="3772638"><style>.stk-3772638 {--tabs-gap:3px !important;}.stk-3772638 .stk-block-tab-content .stk-block-content .stk-block-column[hidden]{display:none !important;}</style><div class="stk-row stk-inner-blocks stk-block-content stk-block-tabs--horizontal stk-block-tabs--fade stk-content-align stk-3772638-column alignwide"><!-- wp:stackable/tab-labels {"uniqueId":"bcd6f00","blockBorderType":"solid","blockBorderWidth":{"top":0,"right":0,"bottom":0,"left":0},"opacity":1,"tabLineHeight":1.5,"tabFontWeight":"600","tabTextColor1":"#333333B2","tabFontSize":"1.875","tabBackgroundColor":"transparent","tabBorderType":"solid","tabBorderColor":"transparent","tabBorderWidth":{"top":0,"right":0,"bottom":0,"left":0},"activeTabBorderColor":"#003B22","tabLabels":[{"label":"London Store","icon":"","anchor":"tab-1"},{"label":"Paris Store","icon":"","anchor":"tab-2"},{"label":"New York Store","icon":""}],"tabAlignment":"center","tabIconColor1":"#333333B2","activeTabTextColor":"#003B22","activeTabIconColor1":"#000000","tabFontSizeUnit":"rem","activeTabBorderWidthHover":{"top":0,"right":0,"bottom":0,"left":0},"tabIconColor1Hover":"#909090","activeTabTextColorHover":"#003B22","activeTabIconColor1Hover":"#000000"} -->
-<div class="wp-block-stackable-tab-labels stk-block-tab-labels stk-block stk-bcd6f00" data-block-id="bcd6f00"><style>.stk-bcd6f00 .stk-block-tab-labels__wrapper{justify-content:center !important;}.stk-bcd6f00 .stk-block-tabs__tab{color:#333333B2 !important;background:transparent !important;border-style:solid !important;border-color:transparent !important;border-top-width:0px !important;border-right-width:0px !important;border-bottom-width:0px !important;border-left-width:0px !important;}.stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active .stk-block-tab-labels__text{color:#003B22 !important;}.stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active:hover .stk-block-tab-labels__text{color:#003B22 !important;}.stk-bcd6f00 {border-style:solid !important;border-top-width:0px !important;border-right-width:0px !important;border-bottom-width:0px !important;border-left-width:0px !important;opacity:1 !important;}.stk-bcd6f00 .stk-block-tab-labels__text{font-size:1.875rem !important;color:#333333B2 !important;line-height:1.5em !important;font-weight:600 !important;}.stk-bcd6f00 .stk-block-tabs__tab .stk--inner-svg svg:last-child, .stk-bcd6f00 .stk-block-tabs__tab .stk--inner-svg svg:last-child :is(g, path, rect, polygon, ellipse){fill:#333333B2 !important;}.stk-bcd6f00 .stk-block-tabs__tab:not(.stk-block-tabs__tab--active):hover .stk--inner-svg svg:last-child, .stk-bcd6f00 .stk-block-tabs__tab:not(.stk-block-tabs__tab--active):hover .stk--inner-svg svg:last-child :is(g, path, rect, polygon, ellipse){fill:#909090 !important;}.stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active{border-color:#003B22 !important;}.stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active:hover{border-top-width:0px !important;border-right-width:0px !important;border-bottom-width:0px !important;border-left-width:0px !important;}.stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active .stk--inner-svg svg:last-child, .stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active .stk--inner-svg svg:last-child :is(g, path, rect, polygon, ellipse){fill:#000000 !important;}.stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active:hover .stk--inner-svg svg:last-child, .stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active:hover .stk--inner-svg svg:last-child :is(g, path, rect, polygon, ellipse){fill:#000000 !important;}@media screen and (max-width: 1023px){.stk-bcd6f00 .stk-block-tab-labels__text{font-size:1.875rem !important;}}</style><div class="stk-block-tab-labels__wrapper" role="tablist"><button class="stk-block-tabs__tab" role="tab" id="tab-1"><div class="stk-block-tab-labels__text"><span>London Store</span></div></button><button class="stk-block-tabs__tab" role="tab" id="tab-2"><div class="stk-block-tab-labels__text"><span>Paris Store</span></div></button><button class="stk-block-tabs__tab" role="tab"><div class="stk-block-tab-labels__text"><span>New York Store</span></div></button></div></div>
-<!-- /wp:stackable/tab-labels -->
+<!-- wp:group {"metadata":{"categories":["theme-groceria","contact","featured"],"patternName":"groceria/contact-store","name":"Contact Store"},"align":"full","style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|7"}},"layout":{"type":"default"}} -->
+<div class="wp-block-group alignwide"><!-- wp:group {"align":"wide","className":"max-md:!justify-start overflow-x-auto scroll-smooth scrollbar-hide","style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center","orientation":"horizontal"}} -->
+<div class="wp-block-group alignwide max-md:!justify-start overflow-x-auto scroll-smooth scrollbar-hide"><!-- wp:paragraph {"className":"shrink-0","style":{"elements":{"link":{"color":{"text":"var:preset|color|charcoal"},":hover":{"color":{"text":"var:preset|color|primary"}}}},"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":"1.5"}},"textColor":"charcoal","fontSize":"3xl"} -->
+<p class="shrink-0 has-charcoal-color has-text-color has-link-color has-3-xl-font-size" style="font-style:normal;font-weight:600;line-height:1.5">
+				<a href="#">London Store</a>
+			</p>
+<!-- /wp:paragraph -->
 
-<!-- wp:stackable/tab-content {"uniqueId":"2af417b"} -->
-<div class="wp-block-stackable-tab-content stk-block-tab-content stk-block stk-2af417b" data-block-id="2af417b"><div class="stk-row stk-inner-blocks stk-block-content stk-content-align stk-2af417b-column"><!-- wp:stackable/column {"uniqueId":"e7d8020","customAttributes":[["role","tabpanel"]]} -->
-<div class="wp-block-stackable-column stk-block-column stk-column stk-block stk-e7d8020" data-v="4" role="tabpanel" data-block-id="e7d8020"><div class="stk-column-wrapper stk-block-column__content stk-container stk-e7d8020-container stk--no-background stk--no-padding"><div class="stk-block-content stk-inner-blocks stk-e7d8020-inner-blocks"><!-- wp:group {"align":"full","className":" overflow-hidden shadow-md flex flex-col sm:flex-row","style":{"spacing":{"blockGap":"0"},"color":{"background":"#eef7f2"},"border":{"radius":"12px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<!-- wp:paragraph {"className":"shrink-0","style":{"elements":{"link":{"color":{"text":"var:preset|color|charcoal"},":hover":{"color":{"text":"var:preset|color|primary"}}}},"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":"1.5"}},"textColor":"charcoal","fontSize":"3xl"} -->
+<p class="shrink-0 has-charcoal-color has-text-color has-link-color has-3-xl-font-size" style="font-style:normal;font-weight:600;line-height:1.5">
+				<a href="#">Paris Store</a>
+			</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"shrink-0","style":{"elements":{"link":{"color":{"text":"var:preset|color|charcoal"},":hover":{"color":{"text":"var:preset|color|primary"}}}},"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":"1.5"}},"textColor":"charcoal","fontSize":"3xl"} -->
+<p class="shrink-0 has-charcoal-color has-text-color has-link-color has-3-xl-font-size" style="font-style:normal;font-weight:600;line-height:1.5">
+				<a href="#">New York Store</a>
+			</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","className":" overflow-hidden shadow-md flex flex-col sm:flex-row","style":{"spacing":{"blockGap":"0"},"color":{"background":"#eef7f2"},"border":{"radius":"12px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group alignfull overflow-hidden shadow-md flex flex-col sm:flex-row has-background" style="border-radius:12px;background-color:#eef7f2"><!-- wp:group {"className":"md:w-173  w-full h-80 md:h-[600px] rounded-tl-md rounded-bl-md overflow-hidden","layout":{"type":"default"}} -->
 <div class="wp-block-group md:w-173  w-full h-80 md:h-[600px] rounded-tl-md rounded-bl-md overflow-hidden"><!-- wp:html -->
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.5100263943164!2d-122.42067938468106!3d37.77492927975995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085814d5c77eb11%3A0x70e7a68e84b2f95f!2sSan+Francisco%2C+CA!5e0!3m2!1sen!2sus!4v1620226144537!5m2!1sen!2sus" width="100%" height="600" style="border: 0px; pointer-events: none;" allowfullscreen=""></iframe>
@@ -13520,8 +13528,8 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"className":"md:w-178  items-center justify-center  items-center justify-center ","style":{"spacing":{"padding":{"top":"var:preset|spacing|8","bottom":"var:preset|spacing|8","left":"var:preset|spacing|8","right":"var:preset|spacing|8"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group md:w-178 items-center justify-center" style="padding-top:var(--wp--preset--spacing--8);padding-right:var(--wp--preset--spacing--8);padding-bottom:var(--wp--preset--spacing--8);padding-left:var(--wp--preset--spacing--8)"><!-- wp:heading {"textAlign":"center","level":3,"className":"font-semibold text-2xl md:text-3xl text-primary mb-5 leading-11","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"lineHeight":"1.5","fontStyle":"normal","fontWeight":"500"}},"textColor":"primary","fontSize":"3xl"} -->
-<h3 class="wp-block-heading has-text-align-center font-semibold text-2xl md:text-3xl text-primary mb-5 leading-11 has-primary-color has-text-color has-link-color has-3-xl-font-size" style="font-style:normal;font-weight:500;line-height:1.5">London Store</h3>
+<div class="wp-block-group md:w-178 items-center justify-center" style="padding-top:var(--wp--preset--spacing--8);padding-right:var(--wp--preset--spacing--8);padding-bottom:var(--wp--preset--spacing--8);padding-left:var(--wp--preset--spacing--8)"><!-- wp:heading {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"lineHeight":"1.5","fontStyle":"normal","fontWeight":"600"}},"textColor":"primary","fontSize":"3xl"} -->
+<h3 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color has-3-xl-font-size" style="font-style:normal;font-weight:600;line-height:1.5">London Store</h3>
 <!-- /wp:heading -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"default"}} -->
@@ -13538,88 +13546,13 @@
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:buttons {"style":{"spacing":{"margin":{"top":"var:preset|spacing|10"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons" style="margin-top:var(--wp--preset--spacing--10)"><!-- wp:button {"style":{"spacing":{"padding":{"left":"30px","right":"30px"}}}} -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" style="padding-right:30px;padding-left:30px">Get Directions</a></div>
+<!-- wp:buttons {"style":{"spacing":{"margin":{"top":"var:preset|spacing|8"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons" style="margin-top:var(--wp--preset--spacing--8)"><!-- wp:button {"style":{"spacing":{"padding":{"left":"var:preset|spacing|7","right":"var:preset|spacing|7"}}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" style="padding-right:var(--wp--preset--spacing--7);padding-left:var(--wp--preset--spacing--7)">Get Directions</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>
-<!-- /wp:group --></div></div></div>
-<!-- /wp:stackable/column -->
-
-<!-- wp:stackable/column {"uniqueId":"d1f2c64","customAttributes":[["role","tabpanel"]]} -->
-<div class="wp-block-stackable-column stk-block-column stk-column stk-block stk-d1f2c64" data-v="4" role="tabpanel" data-block-id="d1f2c64"><div class="stk-column-wrapper stk-block-column__content stk-container stk-d1f2c64-container stk--no-background stk--no-padding"><div class="stk-block-content stk-inner-blocks stk-d1f2c64-inner-blocks"><!-- wp:group {"align":"full","className":" overflow-hidden shadow-md flex flex-col sm:flex-row","style":{"spacing":{"blockGap":"0"},"color":{"background":"#eef7f2"},"border":{"radius":"12px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group alignfull overflow-hidden shadow-md flex flex-col sm:flex-row has-background" style="border-radius:12px;background-color:#eef7f2"><!-- wp:group {"className":"md:w-173  w-full h-80 md:h-[600px] rounded-tl-md rounded-bl-md overflow-hidden","layout":{"type":"default"}} -->
-<div class="wp-block-group md:w-173  w-full h-80 md:h-[600px] rounded-tl-md rounded-bl-md overflow-hidden"><!-- wp:html -->
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.5100263943164!2d-122.42067938468106!3d37.77492927975995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085814d5c77eb11%3A0x70e7a68e84b2f95f!2sSan+Francisco%2C+CA!5e0!3m2!1sen!2sus!4v1620226144537!5m2!1sen!2sus" width="100%" height="600" style="border: 0px; pointer-events: none;" allowfullscreen=""></iframe>
-<!-- /wp:html --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"className":"md:w-178  items-center justify-center  items-center justify-center ","style":{"spacing":{"padding":{"top":"var:preset|spacing|8","bottom":"var:preset|spacing|8","left":"var:preset|spacing|8","right":"var:preset|spacing|8"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group md:w-178 items-center justify-center" style="padding-top:var(--wp--preset--spacing--8);padding-right:var(--wp--preset--spacing--8);padding-bottom:var(--wp--preset--spacing--8);padding-left:var(--wp--preset--spacing--8)"><!-- wp:heading {"textAlign":"center","level":3,"className":"font-semibold text-2xl md:text-3xl text-primary mb-5 leading-11","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"lineHeight":"1.5","fontStyle":"normal","fontWeight":"500"}},"textColor":"primary","fontSize":"3xl"} -->
-<h3 class="wp-block-heading has-text-align-center font-semibold text-2xl md:text-3xl text-primary mb-5 leading-11 has-primary-color has-text-color has-link-color has-3-xl-font-size" style="font-style:normal;font-weight:500;line-height:1.5">Paris Store</h3>
-<!-- /wp:heading -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"default"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"fontStyle":"normal","fontWeight":"500","lineHeight":"1.73"}},"textColor":"primary","fontSize":"sm-plus"} -->
-<p class="has-text-align-center has-primary-color has-text-color has-link-color has-sm-plus-font-size" style="font-style:normal;font-weight:500;line-height:1.73">Address: 4b/39 James<br>St, Fortitude Valley QLD 4006</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"fontStyle":"normal","fontWeight":"500","lineHeight":"1.73"}},"textColor":"primary","fontSize":"sm-plus"} -->
-<p class="has-text-align-center has-primary-color has-text-color has-link-color has-sm-plus-font-size" style="font-style:normal;font-weight:500;line-height:1.73">+391 (0)35 2568</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"lineHeight":"1.73","fontStyle":"normal","fontWeight":"500"}},"textColor":"primary","fontSize":"sm-plus"} -->
-<p class="has-text-align-center has-primary-color has-text-color has-link-color has-sm-plus-font-size" style="font-style:normal;font-weight:500;line-height:1.73">Mon-Sat: 10am-8pm</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:buttons {"style":{"spacing":{"margin":{"top":"var:preset|spacing|10"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons" style="margin-top:var(--wp--preset--spacing--10)"><!-- wp:button {"style":{"spacing":{"padding":{"left":"30px","right":"30px"}}}} -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" style="padding-right:30px;padding-left:30px">Get Directions</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons --></div>
 <!-- /wp:group --></div>
-<!-- /wp:group --></div></div></div>
-<!-- /wp:stackable/column -->
-
-<!-- wp:stackable/column {"uniqueId":"8c5a1d2","customAttributes":[["role","tabpanel"]]} -->
-<div class="wp-block-stackable-column stk-block-column stk-column stk-block stk-8c5a1d2" data-v="4" role="tabpanel" data-block-id="8c5a1d2"><div class="stk-column-wrapper stk-block-column__content stk-container stk-8c5a1d2-container stk--no-background stk--no-padding"><div class="stk-block-content stk-inner-blocks stk-8c5a1d2-inner-blocks"><!-- wp:group {"align":"full","className":" overflow-hidden shadow-md flex flex-col sm:flex-row","style":{"spacing":{"blockGap":"0"},"color":{"background":"#eef7f2"},"border":{"radius":"12px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group alignfull overflow-hidden shadow-md flex flex-col sm:flex-row has-background" style="border-radius:12px;background-color:#eef7f2"><!-- wp:group {"className":"md:w-173  w-full h-80 md:h-[600px] rounded-tl-md rounded-bl-md overflow-hidden","layout":{"type":"default"}} -->
-<div class="wp-block-group md:w-173  w-full h-80 md:h-[600px] rounded-tl-md rounded-bl-md overflow-hidden"><!-- wp:html -->
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.5100263943164!2d-122.42067938468106!3d37.77492927975995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085814d5c77eb11%3A0x70e7a68e84b2f95f!2sSan+Francisco%2C+CA!5e0!3m2!1sen!2sus!4v1620226144537!5m2!1sen!2sus" width="100%" height="600" style="border: 0px; pointer-events: none;" allowfullscreen=""></iframe>
-<!-- /wp:html --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"className":"md:w-178  items-center justify-center  items-center justify-center ","style":{"spacing":{"padding":{"top":"var:preset|spacing|8","bottom":"var:preset|spacing|8","left":"var:preset|spacing|8","right":"var:preset|spacing|8"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group md:w-178 items-center justify-center" style="padding-top:var(--wp--preset--spacing--8);padding-right:var(--wp--preset--spacing--8);padding-bottom:var(--wp--preset--spacing--8);padding-left:var(--wp--preset--spacing--8)"><!-- wp:heading {"textAlign":"center","level":3,"className":"font-semibold text-2xl md:text-3xl text-primary mb-5 leading-11","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"lineHeight":"1.5","fontStyle":"normal","fontWeight":"500"}},"textColor":"primary","fontSize":"3xl"} -->
-<h3 class="wp-block-heading has-text-align-center font-semibold text-2xl md:text-3xl text-primary mb-5 leading-11 has-primary-color has-text-color has-link-color has-3-xl-font-size" style="font-style:normal;font-weight:500;line-height:1.5">New York Store</h3>
-<!-- /wp:heading -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"default"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"fontStyle":"normal","fontWeight":"500","lineHeight":"1.73"}},"textColor":"primary","fontSize":"sm-plus"} -->
-<p class="has-text-align-center has-primary-color has-text-color has-link-color has-sm-plus-font-size" style="font-style:normal;font-weight:500;line-height:1.73">Address: 4b/39 James<br>St, Fortitude Valley QLD 4006</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"fontStyle":"normal","fontWeight":"500","lineHeight":"1.73"}},"textColor":"primary","fontSize":"sm-plus"} -->
-<p class="has-text-align-center has-primary-color has-text-color has-link-color has-sm-plus-font-size" style="font-style:normal;font-weight:500;line-height:1.73">+391 (0)35 2568</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"lineHeight":"1.73","fontStyle":"normal","fontWeight":"500"}},"textColor":"primary","fontSize":"sm-plus"} -->
-<p class="has-text-align-center has-primary-color has-text-color has-link-color has-sm-plus-font-size" style="font-style:normal;font-weight:500;line-height:1.73">Mon-Sat: 10am-8pm</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:buttons {"style":{"spacing":{"margin":{"top":"var:preset|spacing|10"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons" style="margin-top:var(--wp--preset--spacing--10)"><!-- wp:button {"style":{"spacing":{"padding":{"left":"30px","right":"30px"}}}} -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" style="padding-right:30px;padding-left:30px">Get Directions</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div></div></div>
-<!-- /wp:stackable/column --></div></div>
-<!-- /wp:stackable/tab-content --></div></div>
-<!-- /wp:stackable/tabs --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
@@ -13800,8 +13733,8 @@
 		<wp:post_id>2583</wp:post_id>
 		<wp:post_date><![CDATA[2025-09-23 05:49:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-09-23 05:49:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-23 13:16:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-23 13:16:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-10-24 07:03:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-24 07:03:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-v5]]></wp:post_name>
@@ -13817,11 +13750,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[stackable_optimized_css]]></wp:meta_key>
-		<wp:meta_value><![CDATA[.stk-3772638{--tabs-gap:3px !important;}.stk-3772638 .stk-block-tab-content .stk-block-content .stk-block-column[hidden]{display:none !important;}.stk-bcd6f00 .stk-block-tab-labels__wrapper{justify-content:center !important;}.stk-bcd6f00 .stk-block-tabs__tab{color:#333333B2 !important;background:transparent !important;border-style:solid !important;border-color:transparent !important;border-top-width:0px !important;border-right-width:0px !important;border-bottom-width:0px !important;border-left-width:0px !important;}.stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active .stk-block-tab-labels__text{color:#003B22 !important;}.stk-bcd6f00{border-style:solid !important;border-top-width:0px !important;border-right-width:0px !important;border-bottom-width:0px !important;border-left-width:0px !important;opacity:1 !important;}.stk-bcd6f00 .stk-block-tab-labels__text{font-size:1.875rem !important;color:#333333B2 !important;line-height:1.5em !important;font-weight:600 !important;}.stk-bcd6f00 .stk-block-tabs__tab .stk--inner-svg svg:last-child,.stk-bcd6f00 .stk-block-tabs__tab .stk--inner-svg svg:last-child :is(g, path, rect, polygon, ellipse){fill:#333333B2 !important;}.stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active{border-color:#003B22 !important;}.stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active .stk--inner-svg svg:last-child,.stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active .stk--inner-svg svg:last-child :is(g, path, rect, polygon, ellipse){fill:#000000 !important;}.stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active:hover .stk-block-tab-labels__text{color:#003B22 !important;}.stk-bcd6f00 .stk-block-tabs__tab:not(.stk-block-tabs__tab--active):hover .stk--inner-svg svg:last-child,.stk-bcd6f00 .stk-block-tabs__tab:not(.stk-block-tabs__tab--active):hover .stk--inner-svg svg:last-child :is(g, path, rect, polygon, ellipse){fill:#909090 !important;}.stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active:hover{border-top-width:0px !important;border-right-width:0px !important;border-bottom-width:0px !important;border-left-width:0px !important;}.stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active:hover .stk--inner-svg svg:last-child,.stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active:hover .stk--inner-svg svg:last-child :is(g, path, rect, polygon, ellipse){fill:#000000 !important;}@media screen and (max-width:1023px){.stk-bcd6f00 .stk-block-tab-labels__text{font-size:1.875rem !important;}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[stackable_optimized_css_raw]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{i:3772638;a:1:{i:0;a:2:{i:0;s:162:"<style>.stk-3772638 {--tabs-gap:3px !important;}.stk-3772638 .stk-block-tab-content .stk-block-content .stk-block-column[hidden]{display:none !important;}</style>";i:1;s:147:".stk-3772638 {--tabs-gap:3px !important;}.stk-3772638 .stk-block-tab-content .stk-block-content .stk-block-column[hidden]{display:none !important;}";}}s:7:"bcd6f00";a:1:{i:0;a:2:{i:0;s:2370:"<style>.stk-bcd6f00 .stk-block-tab-labels__wrapper{justify-content:center !important;}.stk-bcd6f00 .stk-block-tabs__tab{color:#333333B2 !important;background:transparent !important;border-style:solid !important;border-color:transparent !important;border-top-width:0px !important;border-right-width:0px !important;border-bottom-width:0px !important;border-left-width:0px !important;}.stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active .stk-block-tab-labels__text{color:#003B22 !important;}.stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active:hover .stk-block-tab-labels__text{color:#003B22 !important;}.stk-bcd6f00 {border-style:solid !important;border-top-width:0px !important;border-right-width:0px !important;border-bottom-width:0px !important;border-left-width:0px !important;opacity:1 !important;}.stk-bcd6f00 .stk-block-tab-labels__text{font-size:1.875rem !important;color:#333333B2 !important;line-height:1.5em !important;font-weight:600 !important;}.stk-bcd6f00 .stk-block-tabs__tab .stk--inner-svg svg:last-child, .stk-bcd6f00 .stk-block-tabs__tab .stk--inner-svg svg:last-child :is(g, path, rect, polygon, ellipse){fill:#333333B2 !important;}.stk-bcd6f00 .stk-block-tabs__tab:not(.stk-block-tabs__tab--active):hover .stk--inner-svg svg:last-child, .stk-bcd6f00 .stk-block-tabs__tab:not(.stk-block-tabs__tab--active):hover .stk--inner-svg svg:last-child :is(g, path, rect, polygon, ellipse){fill:#909090 !important;}.stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active{border-color:#003B22 !important;}.stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active:hover{border-top-width:0px !important;border-right-width:0px !important;border-bottom-width:0px !important;border-left-width:0px !important;}.stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active .stk--inner-svg svg:last-child, .stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active .stk--inner-svg svg:last-child :is(g, path, rect, polygon, ellipse){fill:#000000 !important;}.stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active:hover .stk--inner-svg svg:last-child, .stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active:hover .stk--inner-svg svg:last-child :is(g, path, rect, polygon, ellipse){fill:#000000 !important;}@media screen and (max-width: 1023px){.stk-bcd6f00 .stk-block-tab-labels__text{font-size:1.875rem !important;}}</style>";i:1;s:2355:".stk-bcd6f00 .stk-block-tab-labels__wrapper{justify-content:center !important;}.stk-bcd6f00 .stk-block-tabs__tab{color:#333333B2 !important;background:transparent !important;border-style:solid !important;border-color:transparent !important;border-top-width:0px !important;border-right-width:0px !important;border-bottom-width:0px !important;border-left-width:0px !important;}.stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active .stk-block-tab-labels__text{color:#003B22 !important;}.stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active:hover .stk-block-tab-labels__text{color:#003B22 !important;}.stk-bcd6f00 {border-style:solid !important;border-top-width:0px !important;border-right-width:0px !important;border-bottom-width:0px !important;border-left-width:0px !important;opacity:1 !important;}.stk-bcd6f00 .stk-block-tab-labels__text{font-size:1.875rem !important;color:#333333B2 !important;line-height:1.5em !important;font-weight:600 !important;}.stk-bcd6f00 .stk-block-tabs__tab .stk--inner-svg svg:last-child, .stk-bcd6f00 .stk-block-tabs__tab .stk--inner-svg svg:last-child :is(g, path, rect, polygon, ellipse){fill:#333333B2 !important;}.stk-bcd6f00 .stk-block-tabs__tab:not(.stk-block-tabs__tab--active):hover .stk--inner-svg svg:last-child, .stk-bcd6f00 .stk-block-tabs__tab:not(.stk-block-tabs__tab--active):hover .stk--inner-svg svg:last-child :is(g, path, rect, polygon, ellipse){fill:#909090 !important;}.stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active{border-color:#003B22 !important;}.stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active:hover{border-top-width:0px !important;border-right-width:0px !important;border-bottom-width:0px !important;border-left-width:0px !important;}.stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active .stk--inner-svg svg:last-child, .stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active .stk--inner-svg svg:last-child :is(g, path, rect, polygon, ellipse){fill:#000000 !important;}.stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active:hover .stk--inner-svg svg:last-child, .stk-bcd6f00 .stk-block-tabs__tab.stk-block-tabs__tab--active:hover .stk--inner-svg svg:last-child :is(g, path, rect, polygon, ellipse){fill:#000000 !important;}@media screen and (max-width: 1023px){.stk-bcd6f00 .stk-block-tab-labels__text{font-size:1.875rem !important;}}";}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -13948,256 +13881,7 @@
 		</wp:postmeta>
 							</item>
 					
-					<item>
-		<title><![CDATA[tes]]></title>
-		<link>https://groceria.madrasthemes.com/?mas_static_content=tes</link>
-		<pubDate>Fri, 17 Oct 2025 05:15:09 +0000</pubDate>
-		<dc:creator><![CDATA[groceria]]></dc:creator>
-		<guid isPermaLink="false">https://groceria.madrasthemes.com/?post_type=mas_static_content&#038;p=2873</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"metadata":{"name":"Mega Menu v1","categories":["groceria-static-block"],"patternName":"groceria/mega-menu"},"align":"wide","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignwide"><!-- wp:group {"align":"wide","className":"max-lg:grid-cols-1! max-lg:py-5!","style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}},"layout":{"type":"grid","columnCount":6,"minimumColumnWidth":null}} -->
-<div class="wp-block-group alignwide max-lg:grid-cols-1! max-lg:py-5!" style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"default"}} -->
-<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"1.82rem"}},"layout":{"type":"default"}} -->
-<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontSize":"lg"} -->
-<h2 class="wp-block-heading has-primary-color has-text-color has-link-color has-lg-font-size" style="font-style:normal;font-weight:600">Vegetables</h2>
-<!-- /wp:heading -->
-
-<!-- wp:navigation {"overlayMenu":"never","metadata":{"ignoredHookedBlocks":["woocommerce/customer-account"]},"style":{"spacing":{"blockGap":"var:preset|spacing|3"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<!-- wp:navigation-link {"label":"Broccoli","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Cabbage","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Carrots","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Spanish Cherry Tomatoes","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Chilli","url":"#","className":""} /-->
-<!-- /wp:navigation -->
-
-<!-- wp:woocommerce/mini-cart /--></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"1.82rem"}},"layout":{"type":"default"}} -->
-<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontSize":"lg"} -->
-<h2 class="wp-block-heading has-primary-color has-text-color has-link-color has-lg-font-size" style="font-style:normal;font-weight:600">Pantry</h2>
-<!-- /wp:heading -->
-
-<!-- wp:navigation {"overlayMenu":"never","metadata":{"ignoredHookedBlocks":["woocommerce/customer-account"]},"style":{"spacing":{"blockGap":"var:preset|spacing|3"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<!-- wp:navigation-link {"label":"All Purpose Flour","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Almond Flour","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Coconut Oil","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Olive Oil","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Ghee","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Farfalle Pasta","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Rice Noodles","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Barley","url":"#","className":""} /-->
-<!-- /wp:navigation --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"default"}} -->
-<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"1.82rem"}},"layout":{"type":"default"}} -->
-<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontSize":"lg"} -->
-<h2 class="wp-block-heading has-primary-color has-text-color has-link-color has-lg-font-size" style="font-style:normal;font-weight:600">Fruits</h2>
-<!-- /wp:heading -->
-
-<!-- wp:navigation {"overlayMenu":"never","metadata":{"ignoredHookedBlocks":["woocommerce/customer-account"]},"style":{"spacing":{"blockGap":"var:preset|spacing|3"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<!-- wp:navigation-link {"label":"Apples","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Bananas","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Kiwi","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Grapes","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Blueberries","url":"#","className":""} /-->
-<!-- /wp:navigation --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"1.82rem"}},"layout":{"type":"default"}} -->
-<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontSize":"lg"} -->
-<h2 class="wp-block-heading has-primary-color has-text-color has-link-color has-lg-font-size" style="font-style:normal;font-weight:600">Dairy &amp; Eggs</h2>
-<!-- /wp:heading -->
-
-<!-- wp:navigation {"overlayMenu":"never","metadata":{"ignoredHookedBlocks":["woocommerce/customer-account"]},"style":{"spacing":{"blockGap":"var:preset|spacing|3"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<!-- wp:navigation-link {"label":"Brown Eggs","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"White Eggs","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Mozzarella Cheese","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Brie Cheese","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Yogurt \u0026amp; Kefir","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Butter \u0026amp; Margarine","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Desserts","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Cream","url":"#","className":""} /-->
-<!-- /wp:navigation --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"default"}} -->
-<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"1.82rem"}},"layout":{"type":"default"}} -->
-<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontSize":"lg"} -->
-<h2 class="wp-block-heading has-primary-color has-text-color has-link-color has-lg-font-size" style="font-style:normal;font-weight:600">Meat &amp; Seafood</h2>
-<!-- /wp:heading -->
-
-<!-- wp:navigation {"overlayMenu":"never","metadata":{"ignoredHookedBlocks":["woocommerce/customer-account"]},"style":{"spacing":{"blockGap":"var:preset|spacing|3"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<!-- wp:navigation-link {"label":"Chicken Breast","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Bacon - Pork","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Beef Steak","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"GraGround Turkeypes","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Tilapia - Fish","url":"#","className":""} /-->
-<!-- /wp:navigation --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"1.82rem"}},"layout":{"type":"default"}} -->
-<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontSize":"lg"} -->
-<h2 class="wp-block-heading has-primary-color has-text-color has-link-color has-lg-font-size" style="font-style:normal;font-weight:600">Beverages</h2>
-<!-- /wp:heading -->
-
-<!-- wp:navigation {"overlayMenu":"never","metadata":{"ignoredHookedBlocks":["woocommerce/customer-account"]},"style":{"spacing":{"blockGap":"var:preset|spacing|3"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<!-- wp:navigation-link {"label":"Coffee","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Tea","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Juice","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Soft Drinks","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Sparkling Water","url":"#","className":""} /-->
-<!-- /wp:navigation --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"default"}} -->
-<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"1.82rem"}},"layout":{"type":"default"}} -->
-<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontSize":"lg"} -->
-<h2 class="wp-block-heading has-primary-color has-text-color has-link-color has-lg-font-size" style="font-style:normal;font-weight:600">Bakery</h2>
-<!-- /wp:heading -->
-
-<!-- wp:navigation {"overlayMenu":"never","metadata":{"ignoredHookedBlocks":["woocommerce/customer-account"]},"style":{"spacing":{"blockGap":"var:preset|spacing|3"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<!-- wp:navigation-link {"label":"Croissant","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Whipped Cream","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Potato Chips","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Bagels","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Wheat Bread","url":"#","className":""} /-->
-<!-- /wp:navigation --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"1.82rem"}},"layout":{"type":"default"}} -->
-<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontSize":"lg"} -->
-<h2 class="wp-block-heading has-primary-color has-text-color has-link-color has-lg-font-size" style="font-style:normal;font-weight:600">Snacks</h2>
-<!-- /wp:heading -->
-
-<!-- wp:navigation {"overlayMenu":"never","metadata":{"ignoredHookedBlocks":["woocommerce/customer-account"]},"style":{"spacing":{"blockGap":"var:preset|spacing|3"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<!-- wp:navigation-link {"label":"CroissTrail Mix","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Granola Bars","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Popcorn","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Nuts \u0026amp; Seeds","url":"#","className":""} /-->
-
-<!-- wp:navigation-link {"label":"Crackers","url":"#","className":""} /-->
-<!-- /wp:navigation --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"className":"max-lg:col-span-1!","style":{"layout":{"columnSpan":2}},"layout":{"type":"default"}} -->
-<div class="wp-block-group max-lg:col-span-1!"><!-- wp:group {"className":"lg:h-75 relative stretched-link hover:shadow-lg transition-all overflow-hidden","style":{"border":{"radius":"12px"},"color":{"background":"#c7d9c1"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group lg:h-75 relative stretched-link hover:shadow-lg transition-all overflow-hidden has-background" style="border-radius:12px;background-color:#c7d9c1"><!-- wp:image {"className":"mega-menu-banner"} -->
-<figure class="wp-block-image mega-menu-banner"><img src="https://groceria.madrasthemes.com/wp-content/themes/groceria/assets/images/banners/banner-5.webp" alt="Seasonal Special"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:group {"className":"z-1","style":{"spacing":{"blockGap":"var:preset|spacing|3","margin":{"top":"var:preset|spacing|auto","bottom":"var:preset|spacing|auto"},"padding":{"top":"var:preset|spacing|8","bottom":"var:preset|spacing|8","left":"var:preset|spacing|8","right":"var:preset|spacing|8"}}}} -->
-<div class="wp-block-group z-1" style="margin-top:var(--wp--preset--spacing--auto);margin-bottom:var(--wp--preset--spacing--auto);padding-top:var(--wp--preset--spacing--8);padding-right:var(--wp--preset--spacing--8);padding-bottom:var(--wp--preset--spacing--8);padding-left:var(--wp--preset--spacing--8)"><!-- wp:paragraph {"className":"inline-flex","style":{"spacing":{"padding":{"top":"var:preset|spacing|1-5","bottom":"var:preset|spacing|1-5","left":"var:preset|spacing|4","right":"var:preset|spacing|4"}},"border":{"radius":"12px"},"typography":{"fontSize":"11px","textTransform":"uppercase","fontStyle":"normal","fontWeight":"500","lineHeight":"1"}},"backgroundColor":"white"} -->
-<p class="inline-flex has-white-background-color has-background" style="border-radius:12px;padding-top:var(--wp--preset--spacing--1-5);padding-right:var(--wp--preset--spacing--4);padding-bottom:var(--wp--preset--spacing--1-5);padding-left:var(--wp--preset--spacing--4);font-size:11px;font-style:normal;font-weight:500;line-height:1;text-transform:uppercase">Seasonal Special</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3,"className":"xl:max-w-40 text-pretty","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":"1.4","textTransform":"capitalize"}},"textColor":"primary","fontSize":"xl"} -->
-<h3 class="wp-block-heading xl:max-w-40 text-pretty has-primary-color has-text-color has-link-color has-xl-font-size" style="font-style:normal;font-weight:600;line-height:1.4;text-transform:capitalize"><a href="#">Tastes Like Fresh, Feels Like a Deal!</a></h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"className":"text-2sm leading-5 font-medium","style":{"typography":{"fontStyle":"normal","fontWeight":"500","lineHeight":"1.73"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontSize":"sm-plus"} -->
-<p class="text-2sm leading-5 font-medium has-primary-color has-text-color has-link-color has-sm-plus-font-size" style="font-style:normal;font-weight:500;line-height:1.73">Enjoy an extra 25% off</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"fontStyle":"normal","fontWeight":"600"}},"textColor":"primary","fontSize":"xl"} -->
-<p class="has-primary-color has-text-color has-link-color has-xl-font-size" style="font-style:normal;font-weight:600">25%</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"className":"lg:h-75 relative stretched-link hover:shadow-lg transition-all overflow-hidden","style":{"color":{"background":"#c9e8ed"},"border":{"radius":"12px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group lg:h-75 relative stretched-link hover:shadow-lg transition-all overflow-hidden has-background" style="border-radius:12px;background-color:#c9e8ed"><!-- wp:image {"className":"mega-menu-banner"} -->
-<figure class="wp-block-image mega-menu-banner"><img src="https://groceria.madrasthemes.com/wp-content/themes/groceria/assets/images/banners/banner-3.webp" alt="Weekly Highlight"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:group {"className":"z-1","style":{"spacing":{"blockGap":"var:preset|spacing|4","margin":{"top":"var:preset|spacing|auto","bottom":"var:preset|spacing|auto"},"padding":{"top":"var:preset|spacing|8","bottom":"var:preset|spacing|8","left":"var:preset|spacing|8","right":"var:preset|spacing|8"}}}} -->
-<div class="wp-block-group z-1" style="margin-top:var(--wp--preset--spacing--auto);margin-bottom:var(--wp--preset--spacing--auto);padding-top:var(--wp--preset--spacing--8);padding-right:var(--wp--preset--spacing--8);padding-bottom:var(--wp--preset--spacing--8);padding-left:var(--wp--preset--spacing--8)"><!-- wp:paragraph {"className":"inline-flex","style":{"spacing":{"padding":{"top":"var:preset|spacing|1-5","bottom":"var:preset|spacing|1-5","left":"var:preset|spacing|4","right":"var:preset|spacing|4"}},"border":{"radius":"12px"},"typography":{"fontSize":"11px","textTransform":"uppercase","fontStyle":"normal","fontWeight":"500","lineHeight":"1"}},"backgroundColor":"white"} -->
-<p class="inline-flex has-white-background-color has-background" style="border-radius:12px;padding-top:var(--wp--preset--spacing--1-5);padding-right:var(--wp--preset--spacing--4);padding-bottom:var(--wp--preset--spacing--1-5);padding-left:var(--wp--preset--spacing--4);font-size:11px;font-style:normal;font-weight:500;line-height:1;text-transform:uppercase">Weekly Highlight</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3,"className":"xl:max-w-35 text-pretty","style":{"typography":{"lineHeight":"1.4","fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontSize":"xl"} -->
-<h3 class="wp-block-heading xl:max-w-35 text-pretty has-primary-color has-text-color has-link-color has-xl-font-size" style="font-style:normal;font-weight:600;line-height:1.4"><a href="#">Nourish Boldly, Spend Wisely!</a></h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"className":"text-2sm leading-5 font-medium","style":{"typography":{"fontStyle":"normal","fontWeight":"500","lineHeight":"1.73"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontSize":"sm-plus"} -->
-<p class="text-2sm leading-5 font-medium has-primary-color has-text-color has-link-color has-sm-plus-font-size" style="font-style:normal;font-weight:500;line-height:1.73">Weekend Only</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"fontStyle":"normal","fontWeight":"600"}},"textColor":"primary","fontSize":"xl"} -->
-<p class="has-primary-color has-text-color has-link-color has-xl-font-size" style="font-style:normal;font-weight:600">30%</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2873</wp:post_id>
-		<wp:post_date><![CDATA[2025-10-17 05:15:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-10-17 05:15:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-17 05:15:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-17 05:15:09]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[tes]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[mas_static_content]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[stackable_optimized_css]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[stackable_optimized_css_raw]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
+					
 					<item>
 		<title><![CDATA[The best healthy-ish treats in our store right now]]></title>
 		<link>https://groceria.madrasthemes.com/the-best-healthy-ish-treats-in-our-store-right-now/</link>
@@ -28037,8 +27721,8 @@ Packed with wholesome flavor, it’s the smarter way to satisfy your cravings an
 		<wp:post_id>2859</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-16 12:32:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-16 12:32:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-17 05:17:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-17 05:17:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-10-24 06:49:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-24 06:49:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[menu-24]]></wp:post_name>
