@@ -12786,17 +12786,17 @@ Whether you're attending a formal event, celebrating a special occasion, or simp
 		<dc:creator><![CDATA[axels@madrasthemes.com]]></dc:creator>
 		<guid isPermaLink="false">https://axels.madrasthemes.com/?p=394</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-submenu {"label":"\u003cstrong\u003eHOME\u003c/strong\u003e","type":"page","id":9,"url":"https://axels.madrasthemes.com/","kind":"post-type"} -->
-<!-- wp:navigation-link {"label":"Home v1","type":"page","id":9,"url":"https://axels.madrasthemes.com/","kind":"post-type"} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation-submenu {"label":"\u003cstrong\u003eHOME\u003c/strong\u003e","type":"page","id":9,"url":"#","kind":"post-type"} -->
+<!-- wp:navigation-link {"label":"Home v1","type":"page","id":9,"url":"#","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Home v2","type":"page","id":129,"url":"https://axels.madrasthemes.com/home-v2/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Home v2","type":"page","id":129,"url":"/home-v2/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Home v3","type":"page","id":131,"url":"https://axels.madrasthemes.com/home-v3/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Home v3","type":"page","id":131,"url":"/home-v3/","kind":"post-type"} /-->
 <!-- /wp:navigation-submenu -->
 
 <!-- wp:navigation-link {"label":"\u003cstrong\u003eCATEGORIES\u003c/strong\u003e","url":"#","className":"has-mega-menu","style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"700"}}} /-->
 
-<!-- wp:navigation-link {"label":"\u003cstrong\u003eSTORE\u003c/strong\u003e","type":"page","id":12,"url":"https://axels.madrasthemes.com/shop/","kind":"post-type","className":"has-mega-menu"} /-->
+<!-- wp:navigation-link {"label":"\u003cstrong\u003eSTORE\u003c/strong\u003e","type":"page","id":12,"url":"/shop/","kind":"post-type","className":"has-mega-menu"} /-->
 
 <!-- wp:navigation-submenu {"label":"\u003cstrong\u003ePAGES\u003c/strong\u003e","url":"#","className":""} -->
 <!-- wp:navigation-link {"label":"About us","url":"/about-us","kind":"custom"} /-->
@@ -15001,7 +15001,7 @@ Whether you're attending a formal event, celebrating a special occasion, or simp
 <div class="wp-block-group alignwide static! max-md:gap-3!"><!-- wp:group {"align":"wide","className":" lg:absolute! lg:inset-x-0 lg:top-0 max-lg:pl-0! max-lg:order-1","style":{"spacing":{"padding":{"right":"var:preset|spacing|4","left":"var:preset|spacing|4"}}},"layout":{"type":"default"}} -->
 <div class="wp-block-group alignwide lg:absolute! lg:inset-x-0 lg:top-0 max-lg:pl-0! max-lg:order-1" style="padding-right:var(--wp--preset--spacing--4);padding-left:var(--wp--preset--spacing--4)"><!-- wp:group {"align":"wide","className":"lg:max-w-9xl lg:mx-auto max-lg:py-0!","style":{"spacing":{"padding":{"top":"var:preset|spacing|8","bottom":"var:preset|spacing|6"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group alignwide lg:max-w-9xl lg:mx-auto max-lg:py-0!" style="padding-top:var(--wp--preset--spacing--8);padding-bottom:var(--wp--preset--spacing--6)"><!-- wp:image {"lightbox":{"enabled":false},"id":20,"width":"114px","sizeSlug":"full","linkDestination":"custom","className":"brand","style":{"layout":{"selfStretch":"fixed","flexSize":"114px"}}} -->
-<figure class="wp-block-image size-full is-resized brand"><a href="https://axels.madrasthemes.com/"><img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/header/logo.svg" alt="" class="wp-image-20" style="width:114px"/></a></figure>
+<figure class="wp-block-image size-full is-resized brand"><a href="#"><img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/header/logo.svg" alt="" class="wp-image-20" style="width:114px"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"className":"hidden-mobile-flex","layout":{"type":"flex","flexWrap":"nowrap"}} -->
@@ -15327,7 +15327,7 @@ Whether you're attending a formal event, celebrating a special occasion, or simp
 <!-- /wp:group -->
 
 <!-- wp:image {"lightbox":{"enabled":false},"id":20,"width":"114px","sizeSlug":"full","linkDestination":"custom","className":"brand-logo","style":{"layout":{"selfStretch":"fixed","flexSize":"114px"}}} -->
-<figure class="wp-block-image size-full is-resized brand-logo"><a href="https://axels.madrasthemes.com/"><img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/header/logo.svg" alt="" class="wp-image-20" style="width:114px"/></a></figure>
+<figure class="wp-block-image size-full is-resized brand-logo"><a href="#"><img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/header/logo.svg" alt="" class="wp-image-20" style="width:114px"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"className":"ml-auto! lg:ml-0! lg:min-w-97 xl:min-w-115","style":{"spacing":{"blockGap":"var:preset|spacing|0"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right"}} -->
