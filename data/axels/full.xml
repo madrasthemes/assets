@@ -2670,276 +2670,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Shop]]></title>
-		<link>https://axels.madrasthemes.com/shop/</link>
-		<pubDate>Fri, 17 Oct 2025 08:29:35 +0000</pubDate>
-		<dc:creator><![CDATA[axels@madrasthemes.com]]></dc:creator>
-		<guid isPermaLink="false">https://axels.madrasthemes.com/shop/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>12</wp:post_id>
-		<wp:post_date><![CDATA[2025-10-17 08:29:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-10-17 08:29:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-17 08:29:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-17 08:29:35]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[shop]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Cart]]></title>
-		<link>https://axels.madrasthemes.com/cart/</link>
-		<pubDate>Fri, 17 Oct 2025 08:29:35 +0000</pubDate>
-		<dc:creator><![CDATA[axels@madrasthemes.com]]></dc:creator>
-		<guid isPermaLink="false">https://axels.madrasthemes.com/cart/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:woocommerce/cart -->
-<div class="wp-block-woocommerce-cart alignwide is-loading"><!-- wp:woocommerce/filled-cart-block -->
-<div class="wp-block-woocommerce-filled-cart-block"><!-- wp:woocommerce/cart-items-block -->
-<div class="wp-block-woocommerce-cart-items-block"><!-- wp:woocommerce/cart-line-items-block -->
-<div class="wp-block-woocommerce-cart-line-items-block"></div>
-<!-- /wp:woocommerce/cart-line-items-block -->
-
-<!-- wp:woocommerce/product-collection {"queryId":0,"query":{"perPage":3,"pages":1,"offset":0,"postType":"product","order":"asc","orderBy":"title","search":"","exclude":[],"inherit":false,"taxQuery":{},"isProductCollectionBlock":true,"featured":false,"woocommerceOnSale":false,"woocommerceStockStatus":["instock","outofstock","onbackorder"],"woocommerceAttributes":[],"woocommerceHandPickedProducts":[],"filterable":false,"relatedBy":{"categories":true,"tags":true}},"tagName":"div","displayLayout":{"type":"flex","columns":3,"shrinkColumns":true},"dimensions":{"widthType":"fill"},"collection":"woocommerce/product-collection/cross-sells","hideControls":["filterable"],"queryContextIncludes":["collection"],"__privatePreviewState":{"isPreview":true,"previewMessage":"Actual products will vary depending on the page being viewed."}} -->
-<div class="wp-block-woocommerce-product-collection"><!-- wp:heading {"textAlign":"left","style":{"spacing":{"margin":{"bottom":"1rem"}}}} -->
-<h2 class="wp-block-heading has-text-align-left" style="margin-bottom:1rem">You may be interested in&hellip;</h2>
-
-<!-- /wp:heading -->
-
-<!-- wp:woocommerce/product-template -->
-<!-- wp:woocommerce/product-image {"showSaleBadge":false,"imageSizing":"thumbnail","isDescendentOfQueryLoop":true} -->
-<!-- wp:woocommerce/product-sale-badge {"align":"right"} /-->
-<!-- /wp:woocommerce/product-image -->
-
-<!-- wp:post-title {"textAlign":"center","isLink":true,"style":{"spacing":{"margin":{"bottom":"0.75rem","top":"0"}},"typography":{"lineHeight":"1.4"}},"fontSize":"medium","__woocommerceNamespace":"woocommerce/product-collection/product-title"} /-->
-
-<!-- wp:woocommerce/product-price {"isDescendentOfQueryLoop":true,"textAlign":"center","fontSize":"small"} /-->
-
-<!-- wp:woocommerce/product-button {"textAlign":"center","isDescendentOfQueryLoop":true,"fontSize":"small"} /-->
-<!-- /wp:woocommerce/product-template --></div>
-<!-- /wp:woocommerce/product-collection --></div>
-
-<!-- /wp:woocommerce/cart-items-block -->
-
-<!-- wp:woocommerce/cart-totals-block -->
-<div class="wp-block-woocommerce-cart-totals-block"><!-- wp:woocommerce/cart-order-summary-block -->
-<div class="wp-block-woocommerce-cart-order-summary-block"><!-- wp:woocommerce/cart-order-summary-heading-block -->
-<div class="wp-block-woocommerce-cart-order-summary-heading-block"></div>
-<!-- /wp:woocommerce/cart-order-summary-heading-block -->
-
-<!-- wp:woocommerce/cart-order-summary-coupon-form-block -->
-<div class="wp-block-woocommerce-cart-order-summary-coupon-form-block"></div>
-<!-- /wp:woocommerce/cart-order-summary-coupon-form-block -->
-
-<!-- wp:woocommerce/cart-order-summary-subtotal-block -->
-<div class="wp-block-woocommerce-cart-order-summary-subtotal-block"></div>
-<!-- /wp:woocommerce/cart-order-summary-subtotal-block -->
-
-<!-- wp:woocommerce/cart-order-summary-fee-block -->
-<div class="wp-block-woocommerce-cart-order-summary-fee-block"></div>
-<!-- /wp:woocommerce/cart-order-summary-fee-block -->
-
-<!-- wp:woocommerce/cart-order-summary-discount-block -->
-<div class="wp-block-woocommerce-cart-order-summary-discount-block"></div>
-<!-- /wp:woocommerce/cart-order-summary-discount-block -->
-
-<!-- wp:woocommerce/cart-order-summary-shipping-block -->
-<div class="wp-block-woocommerce-cart-order-summary-shipping-block"></div>
-<!-- /wp:woocommerce/cart-order-summary-shipping-block -->
-
-<!-- wp:woocommerce/cart-order-summary-taxes-block -->
-<div class="wp-block-woocommerce-cart-order-summary-taxes-block"></div>
-<!-- /wp:woocommerce/cart-order-summary-taxes-block --></div>
-<!-- /wp:woocommerce/cart-order-summary-block -->
-
-<!-- wp:woocommerce/cart-express-payment-block -->
-<div class="wp-block-woocommerce-cart-express-payment-block"></div>
-<!-- /wp:woocommerce/cart-express-payment-block -->
-
-<!-- wp:woocommerce/proceed-to-checkout-block -->
-<div class="wp-block-woocommerce-proceed-to-checkout-block"></div>
-<!-- /wp:woocommerce/proceed-to-checkout-block -->
-
-<!-- wp:woocommerce/cart-accepted-payment-methods-block -->
-<div class="wp-block-woocommerce-cart-accepted-payment-methods-block"></div>
-<!-- /wp:woocommerce/cart-accepted-payment-methods-block --></div>
-<!-- /wp:woocommerce/cart-totals-block --></div>
-<!-- /wp:woocommerce/filled-cart-block -->
-
-<!-- wp:woocommerce/empty-cart-block -->
-<div class="wp-block-woocommerce-empty-cart-block"><!-- wp:heading {"textAlign":"center","className":"with-empty-cart-icon wc-block-cart__empty-cart__title"} -->
-<h2 class="wp-block-heading has-text-align-center with-empty-cart-icon wc-block-cart__empty-cart__title">Your cart is currently empty!</h2>
-<!-- /wp:heading -->
-
-<!-- wp:separator {"className":"is-style-dots"} -->
-<hr class="wp-block-separator has-alpha-channel-opacity is-style-dots"/>
-<!-- /wp:separator -->
-
-<!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center">New in store</h2>
-<!-- /wp:heading -->
-
-<!-- wp:woocommerce/product-new {"columns":4,"rows":1} /--></div>
-<!-- /wp:woocommerce/empty-cart-block --></div>
-<!-- /wp:woocommerce/cart -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>13</wp:post_id>
-		<wp:post_date><![CDATA[2025-10-17 08:29:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-10-17 08:29:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-17 08:57:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-17 08:57:01]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cart]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Checkout]]></title>
-		<link>https://axels.madrasthemes.com/checkout/</link>
-		<pubDate>Fri, 17 Oct 2025 08:29:36 +0000</pubDate>
-		<dc:creator><![CDATA[axels@madrasthemes.com]]></dc:creator>
-		<guid isPermaLink="false">https://axels.madrasthemes.com/checkout/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:woocommerce/checkout -->
-<div class="wp-block-woocommerce-checkout alignwide wc-block-checkout is-loading"><!-- wp:woocommerce/checkout-fields-block -->
-<div class="wp-block-woocommerce-checkout-fields-block"><!-- wp:woocommerce/checkout-express-payment-block -->
-<div class="wp-block-woocommerce-checkout-express-payment-block"></div>
-<!-- /wp:woocommerce/checkout-express-payment-block -->
-
-<!-- wp:woocommerce/checkout-contact-information-block -->
-<div class="wp-block-woocommerce-checkout-contact-information-block"></div>
-<!-- /wp:woocommerce/checkout-contact-information-block -->
-
-<!-- wp:woocommerce/checkout-shipping-method-block -->
-<div class="wp-block-woocommerce-checkout-shipping-method-block"></div>
-<!-- /wp:woocommerce/checkout-shipping-method-block -->
-
-<!-- wp:woocommerce/checkout-pickup-options-block -->
-<div class="wp-block-woocommerce-checkout-pickup-options-block"></div>
-<!-- /wp:woocommerce/checkout-pickup-options-block -->
-
-<!-- wp:woocommerce/checkout-shipping-address-block -->
-<div class="wp-block-woocommerce-checkout-shipping-address-block"></div>
-<!-- /wp:woocommerce/checkout-shipping-address-block -->
-
-<!-- wp:woocommerce/checkout-billing-address-block -->
-<div class="wp-block-woocommerce-checkout-billing-address-block"></div>
-<!-- /wp:woocommerce/checkout-billing-address-block -->
-
-<!-- wp:woocommerce/checkout-shipping-methods-block -->
-<div class="wp-block-woocommerce-checkout-shipping-methods-block"></div>
-<!-- /wp:woocommerce/checkout-shipping-methods-block -->
-
-<!-- wp:woocommerce/checkout-payment-block -->
-<div class="wp-block-woocommerce-checkout-payment-block"></div>
-<!-- /wp:woocommerce/checkout-payment-block -->
-
-<!-- wp:woocommerce/checkout-additional-information-block -->
-<div class="wp-block-woocommerce-checkout-additional-information-block"></div>
-<!-- /wp:woocommerce/checkout-additional-information-block -->
-
-<!-- wp:woocommerce/checkout-order-note-block -->
-<div class="wp-block-woocommerce-checkout-order-note-block"></div>
-<!-- /wp:woocommerce/checkout-order-note-block -->
-
-<!-- wp:woocommerce/checkout-terms-block -->
-<div class="wp-block-woocommerce-checkout-terms-block"></div>
-<!-- /wp:woocommerce/checkout-terms-block -->
-
-<!-- wp:woocommerce/checkout-actions-block -->
-<div class="wp-block-woocommerce-checkout-actions-block"></div>
-<!-- /wp:woocommerce/checkout-actions-block --></div>
-<!-- /wp:woocommerce/checkout-fields-block -->
-
-<!-- wp:woocommerce/checkout-totals-block -->
-<div class="wp-block-woocommerce-checkout-totals-block"><!-- wp:woocommerce/checkout-order-summary-block -->
-<div class="wp-block-woocommerce-checkout-order-summary-block"><!-- wp:woocommerce/checkout-order-summary-cart-items-block -->
-<div class="wp-block-woocommerce-checkout-order-summary-cart-items-block"></div>
-<!-- /wp:woocommerce/checkout-order-summary-cart-items-block -->
-
-<!-- wp:woocommerce/checkout-order-summary-coupon-form-block -->
-<div class="wp-block-woocommerce-checkout-order-summary-coupon-form-block"></div>
-<!-- /wp:woocommerce/checkout-order-summary-coupon-form-block -->
-
-<!-- wp:woocommerce/checkout-order-summary-subtotal-block -->
-<div class="wp-block-woocommerce-checkout-order-summary-subtotal-block"></div>
-<!-- /wp:woocommerce/checkout-order-summary-subtotal-block -->
-
-<!-- wp:woocommerce/checkout-order-summary-fee-block -->
-<div class="wp-block-woocommerce-checkout-order-summary-fee-block"></div>
-<!-- /wp:woocommerce/checkout-order-summary-fee-block -->
-
-<!-- wp:woocommerce/checkout-order-summary-discount-block -->
-<div class="wp-block-woocommerce-checkout-order-summary-discount-block"></div>
-<!-- /wp:woocommerce/checkout-order-summary-discount-block -->
-
-<!-- wp:woocommerce/checkout-order-summary-shipping-block -->
-<div class="wp-block-woocommerce-checkout-order-summary-shipping-block"></div>
-<!-- /wp:woocommerce/checkout-order-summary-shipping-block -->
-
-<!-- wp:woocommerce/checkout-order-summary-taxes-block -->
-<div class="wp-block-woocommerce-checkout-order-summary-taxes-block"></div>
-<!-- /wp:woocommerce/checkout-order-summary-taxes-block --></div>
-<!-- /wp:woocommerce/checkout-order-summary-block --></div>
-<!-- /wp:woocommerce/checkout-totals-block --></div>
-<!-- /wp:woocommerce/checkout -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>14</wp:post_id>
-		<wp:post_date><![CDATA[2025-10-17 08:29:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-10-17 08:29:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-17 08:29:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-17 08:29:36]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[checkout]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[My account]]></title>
-		<link>https://axels.madrasthemes.com/my-account/</link>
-		<pubDate>Fri, 17 Oct 2025 08:29:37 +0000</pubDate>
-		<dc:creator><![CDATA[axels@madrasthemes.com]]></dc:creator>
-		<guid isPermaLink="false">https://axels.madrasthemes.com/my-account/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_my_account]<!-- /wp:shortcode -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>15</wp:post_id>
-		<wp:post_date><![CDATA[2025-10-17 08:29:37]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-10-17 08:29:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-23 12:56:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-23 12:56:38]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[my-account]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[template-page-no-title]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Home v2]]></title>
 		<link>https://axels.madrasthemes.com/home-v2/</link>
 		<pubDate>Fri, 17 Oct 2025 08:35:28 +0000</pubDate>
@@ -4383,7 +4113,7 @@
 <div class="wp-block-group alignwide static! max-md:gap-3!"><!-- wp:group {"align":"wide","className":" lg:absolute! lg:inset-x-0 lg:top-0 max-lg:pl-0! max-lg:order-1","style":{"spacing":{"padding":{"right":"var:preset|spacing|4","left":"var:preset|spacing|4"}}},"layout":{"type":"default"}} -->
 <div class="wp-block-group alignwide lg:absolute! lg:inset-x-0 lg:top-0 max-lg:pl-0! max-lg:order-1" style="padding-right:var(--wp--preset--spacing--4);padding-left:var(--wp--preset--spacing--4)"><!-- wp:group {"align":"wide","className":"lg:max-w-9xl lg:mx-auto max-lg:py-0!","style":{"spacing":{"padding":{"top":"var:preset|spacing|8","bottom":"var:preset|spacing|6"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group alignwide lg:max-w-9xl lg:mx-auto max-lg:py-0!" style="padding-top:var(--wp--preset--spacing--8);padding-bottom:var(--wp--preset--spacing--6)"><!-- wp:image {"lightbox":{"enabled":false},"id":20,"width":"114px","sizeSlug":"full","linkDestination":"custom","className":"brand","style":{"layout":{"selfStretch":"fixed","flexSize":"114px"}}} -->
-<figure class="wp-block-image size-full is-resized brand"><a href="https://axels.madrasthemes.com/"><img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/header/logo.svg" alt="" class="wp-image-20" style="width:114px"/></a></figure>
+<figure class="wp-block-image size-full is-resized brand"><a href="#"><img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/header/logo.svg" alt="" class="wp-image-20" style="width:114px"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"className":"hidden-mobile-flex","layout":{"type":"flex","flexWrap":"nowrap"}} -->
@@ -13056,17 +12786,17 @@ Whether you're attending a formal event, celebrating a special occasion, or simp
 		<dc:creator><![CDATA[axels@madrasthemes.com]]></dc:creator>
 		<guid isPermaLink="false">https://axels.madrasthemes.com/?p=394</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-submenu {"label":"\u003cstrong\u003eHOME\u003c/strong\u003e","type":"page","id":9,"url":"https://axels.madrasthemes.com/","kind":"post-type"} -->
-<!-- wp:navigation-link {"label":"Home v1","type":"page","id":9,"url":"https://axels.madrasthemes.com/","kind":"post-type"} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation-submenu {"label":"\u003cstrong\u003eHOME\u003c/strong\u003e","type":"page","id":9,"url":"#","kind":"post-type"} -->
+<!-- wp:navigation-link {"label":"Home v1","type":"page","id":9,"url":"#","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Home v2","type":"page","id":129,"url":"https://axels.madrasthemes.com/home-v2/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Home v2","type":"page","id":129,"url":"/home-v2/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Home v3","type":"page","id":131,"url":"https://axels.madrasthemes.com/home-v3/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Home v3","type":"page","id":131,"url":"/home-v3/","kind":"post-type"} /-->
 <!-- /wp:navigation-submenu -->
 
 <!-- wp:navigation-link {"label":"\u003cstrong\u003eCATEGORIES\u003c/strong\u003e","url":"#","className":"has-mega-menu","style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"700"}}} /-->
 
-<!-- wp:navigation-link {"label":"\u003cstrong\u003eSTORE\u003c/strong\u003e","type":"page","id":12,"url":"https://axels.madrasthemes.com/shop/","kind":"post-type","className":"has-mega-menu"} /-->
+<!-- wp:navigation-link {"label":"\u003cstrong\u003eSTORE\u003c/strong\u003e","type":"page","id":12,"url":"/shop/","kind":"post-type","className":"has-mega-menu"} /-->
 
 <!-- wp:navigation-submenu {"label":"\u003cstrong\u003ePAGES\u003c/strong\u003e","url":"#","className":""} -->
 <!-- wp:navigation-link {"label":"About us","url":"/about-us","kind":"custom"} /-->
@@ -15271,7 +15001,7 @@ Whether you're attending a formal event, celebrating a special occasion, or simp
 <div class="wp-block-group alignwide static! max-md:gap-3!"><!-- wp:group {"align":"wide","className":" lg:absolute! lg:inset-x-0 lg:top-0 max-lg:pl-0! max-lg:order-1","style":{"spacing":{"padding":{"right":"var:preset|spacing|4","left":"var:preset|spacing|4"}}},"layout":{"type":"default"}} -->
 <div class="wp-block-group alignwide lg:absolute! lg:inset-x-0 lg:top-0 max-lg:pl-0! max-lg:order-1" style="padding-right:var(--wp--preset--spacing--4);padding-left:var(--wp--preset--spacing--4)"><!-- wp:group {"align":"wide","className":"lg:max-w-9xl lg:mx-auto max-lg:py-0!","style":{"spacing":{"padding":{"top":"var:preset|spacing|8","bottom":"var:preset|spacing|6"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group alignwide lg:max-w-9xl lg:mx-auto max-lg:py-0!" style="padding-top:var(--wp--preset--spacing--8);padding-bottom:var(--wp--preset--spacing--6)"><!-- wp:image {"lightbox":{"enabled":false},"id":20,"width":"114px","sizeSlug":"full","linkDestination":"custom","className":"brand","style":{"layout":{"selfStretch":"fixed","flexSize":"114px"}}} -->
-<figure class="wp-block-image size-full is-resized brand"><a href="https://axels.madrasthemes.com/"><img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/header/logo.svg" alt="" class="wp-image-20" style="width:114px"/></a></figure>
+<figure class="wp-block-image size-full is-resized brand"><a href="#"><img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/header/logo.svg" alt="" class="wp-image-20" style="width:114px"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"className":"hidden-mobile-flex","layout":{"type":"flex","flexWrap":"nowrap"}} -->
@@ -15597,7 +15327,7 @@ Whether you're attending a formal event, celebrating a special occasion, or simp
 <!-- /wp:group -->
 
 <!-- wp:image {"lightbox":{"enabled":false},"id":20,"width":"114px","sizeSlug":"full","linkDestination":"custom","className":"brand-logo","style":{"layout":{"selfStretch":"fixed","flexSize":"114px"}}} -->
-<figure class="wp-block-image size-full is-resized brand-logo"><a href="https://axels.madrasthemes.com/"><img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/header/logo.svg" alt="" class="wp-image-20" style="width:114px"/></a></figure>
+<figure class="wp-block-image size-full is-resized brand-logo"><a href="#"><img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/header/logo.svg" alt="" class="wp-image-20" style="width:114px"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"className":"ml-auto! lg:ml-0! lg:min-w-97 xl:min-w-115","style":{"spacing":{"blockGap":"var:preset|spacing|0"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right"}} -->
