@@ -12789,7 +12789,7 @@ Whether you're attending a formal event, celebrating a special occasion, or simp
 
 <!-- wp:navigation-link {"label":"\u003cstrong\u003eCATEGORIES\u003c/strong\u003e","url":"#","className":"has-mega-menu","style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"700"}}} /-->
 
-<!-- wp:navigation-link {"label":"\u003cstrong\u003eSTORE\u003c/strong\u003e","type":"page","id":12,"url":"/shop/","kind":"post-type","className":"has-mega-menu"} /-->
+<!-- wp:navigation-link {"label":"\u003cstrong\u003eSTORE\u003c/strong\u003e","type":"page","id":12,"url":"/shop","kind":"post-type","className":"has-mega-menu"} /-->
 
 <!-- wp:navigation-submenu {"label":"\u003cstrong\u003ePAGES\u003c/strong\u003e","url":"#","className":""} -->
 <!-- wp:navigation-link {"label":"About us","url":"/about-us","kind":"custom"} /-->
