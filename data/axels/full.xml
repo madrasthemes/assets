@@ -3627,7 +3627,7 @@
 <!-- wp:woocommerce/product-button {"textAlign":"center","width":100,"isDescendentOfQueryLoop":true,"className":"is-style-button-light !hidden","fontSize":"base","style":{"typography":{"letterSpacing":"4px","fontStyle":"normal","fontWeight":"400","textTransform":"uppercase"}}} /--></div>
 <!-- /wp:group -->
 
-<!-- wp:woocommerce/product-image {"showSaleBadge":false,"imageSizing":"thumbnail","isDescendentOfQueryLoop":true,"height":"","style":{"dimensions":{"aspectRatio":"3/4"},"layout":{"columnSpan":1,"rowSpan":1}}} -->
+<!-- wp:woocommerce/product-image {"showSaleBadge":false,"isDescendentOfQueryLoop":true,"height":"","style":{"dimensions":{"aspectRatio":"1"},"layout":{"columnSpan":1,"rowSpan":1}}} -->
 <!-- wp:woocommerce/product-sale-badge {"align":"left","backgroundColor":"contrast","textColor":"white","fontSize":"base","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"border":{"radius":"0px","width":"0px","style":"none"},"typography":{"fontStyle":"normal","fontWeight":"400"},"layout":{"selfStretch":"fit","flexSize":null},"spacing":{"margin":{"top":"var:preset|spacing|4","left":"var:preset|spacing|4"}}}} /-->
 <!-- /wp:woocommerce/product-image --></div>
 <!-- /wp:group -->
@@ -3835,7 +3835,7 @@
 <!-- wp:woocommerce/product-button {"textAlign":"center","width":100,"isDescendentOfQueryLoop":true,"className":"is-style-button-light !hidden","fontSize":"base","style":{"typography":{"letterSpacing":"4px","fontStyle":"normal","fontWeight":"400","textTransform":"uppercase"}}} /--></div>
 <!-- /wp:group -->
 
-<!-- wp:woocommerce/product-image {"showSaleBadge":false,"imageSizing":"thumbnail","isDescendentOfQueryLoop":true,"height":"","style":{"dimensions":{"aspectRatio":"3/4"},"layout":{"columnSpan":1,"rowSpan":1}}} -->
+<!-- wp:woocommerce/product-image {"showSaleBadge":false,"isDescendentOfQueryLoop":true,"height":"","style":{"dimensions":{"aspectRatio":"1"},"layout":{"columnSpan":1,"rowSpan":1}}} -->
 <!-- wp:woocommerce/product-sale-badge {"align":"left","backgroundColor":"primary","textColor":"white","fontSize":"base","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"border":{"radius":"0px","width":"0px","style":"none"},"typography":{"fontStyle":"normal","fontWeight":"400"},"layout":{"selfStretch":"fit","flexSize":null},"spacing":{"margin":{"top":"var:preset|spacing|4","left":"var:preset|spacing|4"}}}} /-->
 <!-- /wp:woocommerce/product-image --></div>
 <!-- /wp:group -->
@@ -12050,7 +12050,6 @@ Whether you're attending a formal event, celebrating a special occasion, or simp
 		<guid isPermaLink="false">https://axels.madrasthemes.com/?p=223</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:navigation-submenu {"label":"\u003cstrong\u003eCATEGORIES\u003c/strong\u003e","url":"#","className":"has-mega-menu"} -->
-<!-- wp:mytheme/navigation-static-content {"staticContentId":532} /-->
 
 <!-- wp:navigation-link /-->
 <!-- /wp:navigation-submenu -->
@@ -12462,7 +12461,6 @@ Whether you're attending a formal event, celebrating a special occasion, or simp
 		<guid isPermaLink="false">https://axels.madrasthemes.com/?p=613</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:navigation-submenu {"label":"\u003cstrong\u003eCATEGORIES\u003c/strong\u003e","url":"#","className":"has-mega-menu"} -->
-<!-- wp:mytheme/navigation-static-content {"staticContentId":532} /-->
 
 <!-- wp:navigation-link /-->
 <!-- /wp:navigation-submenu -->
@@ -12512,7 +12510,6 @@ Whether you're attending a formal event, celebrating a special occasion, or simp
 		<guid isPermaLink="false">https://axels.madrasthemes.com/?p=614</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:navigation-submenu {"label":"\u003cstrong\u003eCATEGORIES\u003c/strong\u003e","url":"#","className":"has-mega-menu"} -->
-<!-- wp:mytheme/navigation-static-content {"staticContentId":532} /-->
 
 <!-- wp:navigation-link /-->
 <!-- /wp:navigation-submenu -->
@@ -12562,7 +12559,6 @@ Whether you're attending a formal event, celebrating a special occasion, or simp
 		<guid isPermaLink="false">https://axels.madrasthemes.com/?p=615</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:navigation-submenu {"label":"\u003cstrong\u003eCATEGORIES\u003c/strong\u003e","url":"#","className":"has-mega-menu"} -->
-<!-- wp:mytheme/navigation-static-content {"staticContentId":532} /-->
 
 <!-- wp:navigation-link /-->
 <!-- /wp:navigation-submenu -->
@@ -12612,7 +12608,6 @@ Whether you're attending a formal event, celebrating a special occasion, or simp
 		<guid isPermaLink="false">https://axels.madrasthemes.com/?p=616</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:navigation-submenu {"label":"\u003cstrong\u003eCATEGORIES\u003c/strong\u003e","url":"#","className":"has-mega-menu"} -->
-<!-- wp:mytheme/navigation-static-content {"staticContentId":532} /-->
 
 <!-- wp:navigation-link /-->
 <!-- /wp:navigation-submenu -->
@@ -12662,7 +12657,6 @@ Whether you're attending a formal event, celebrating a special occasion, or simp
 		<guid isPermaLink="false">https://axels.madrasthemes.com/?p=617</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:navigation-submenu {"label":"\u003cstrong\u003eCATEGORIES\u003c/strong\u003e","url":"#","className":"has-mega-menu"} -->
-<!-- wp:mytheme/navigation-static-content {"staticContentId":532} /-->
 
 <!-- wp:navigation-link /-->
 <!-- /wp:navigation-submenu -->
@@ -12712,7 +12706,6 @@ Whether you're attending a formal event, celebrating a special occasion, or simp
 		<guid isPermaLink="false">https://axels.madrasthemes.com/?p=618</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:navigation-submenu {"label":"\u003cstrong\u003eCATEGORIES\u003c/strong\u003e","url":"#","className":"has-mega-menu"} -->
-<!-- wp:mytheme/navigation-static-content {"staticContentId":532} /-->
 
 <!-- wp:navigation-link /-->
 <!-- /wp:navigation-submenu -->
@@ -12796,7 +12789,7 @@ Whether you're attending a formal event, celebrating a special occasion, or simp
 
 <!-- wp:navigation-link {"label":"\u003cstrong\u003eCATEGORIES\u003c/strong\u003e","url":"#","className":"has-mega-menu","style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"700"}}} /-->
 
-<!-- wp:navigation-link {"label":"\u003cstrong\u003eSTORE\u003c/strong\u003e","type":"page","id":12,"url":"/shop/","kind":"post-type","className":"has-mega-menu"} /-->
+<!-- wp:navigation-link {"label":"\u003cstrong\u003eSTORE\u003c/strong\u003e","type":"page","id":12,"url":"/shop","kind":"post-type","className":"has-mega-menu"} /-->
 
 <!-- wp:navigation-submenu {"label":"\u003cstrong\u003ePAGES\u003c/strong\u003e","url":"#","className":""} -->
 <!-- wp:navigation-link {"label":"About us","url":"/about-us","kind":"custom"} /-->
