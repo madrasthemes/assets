@@ -2560,19 +2560,13 @@
 								</form>
 <!-- /wp:html -->
 
-<!-- wp:list {"className":"flex !gap-10.5 text-base/6 list-none","style":{"spacing":{"margin":{"top":"var:preset|spacing|12","bottom":"0"}}}} -->
-<ul style="margin-top:var(--wp--preset--spacing--12);margin-bottom:0" class="wp-block-list flex !gap-10.5 text-base/6 list-none"><!-- wp:list-item {"className":"font-bold"} -->
-<li class="font-bold">FB</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"className":"font-bold"} -->
-<li class="font-bold">IG</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"className":"font-bold"} -->
-<li class="font-bold">TW</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --></div>
+<!-- wp:social-links {"iconColor":"contrast","iconColorValue":"#000000","className":"is-style-logos-only","style":{"spacing":{"blockGap":{"left":"var:preset|spacing|9"},"margin":{"top":"var:preset|spacing|12"}}}} -->
+<ul class="wp-block-social-links has-icon-color is-style-logos-only" style="margin-top:var(--wp--preset--spacing--12)">
+	<!-- wp:social-link {"url":"https://www.facebook.com/","service":"facebook"} /-->
+	<!-- wp:social-link {"url":"https://www.instagram.com/","service":"instagram"} /-->
+	<!-- wp:social-link {"url":"https://x.com/","service":"x"} /-->
+</ul>
+<!-- /wp:social-links --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
@@ -2621,23 +2615,33 @@
 			</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:list {"metadata":{"name":"Payment Gateways"},"className":"is-style-list-horizontal gap-12 max-md:!text-xs","style":{"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":"1.5"}},"fontSize":"base"} -->
-<ul style="font-style:normal;font-weight:700;line-height:1.5" class="wp-block-list is-style-list-horizontal gap-12 max-md:!text-xs has-base-font-size"><!-- wp:list-item {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
-<li class="has-primary-color has-text-color has-link-color">VS</li>
-<!-- /wp:list-item -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group">
+	<!-- wp:image {"id":1030,"sizeSlug":"large","linkDestination":"none"} -->
+	<figure class="wp-block-image size-large">
+		<img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/icons/visa.svg" alt="" class="wp-image-1030"/>
+	</figure>
+	<!-- /wp:image -->
 
-<!-- wp:list-item {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
-<li class="has-primary-color has-text-color has-link-color">MC</li>
-<!-- /wp:list-item -->
+	<!-- wp:image {"id":1031,"sizeSlug":"large","linkDestination":"none"} -->
+	<figure class="wp-block-image size-large">
+		<img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/icons/mastercard.svg" alt="" class="wp-image-1031"/>
+	</figure>
+	<!-- /wp:image -->
 
-<!-- wp:list-item {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
-<li class="has-primary-color has-text-color has-link-color">AP</li>
-<!-- /wp:list-item -->
+	<!-- wp:image {"id":1032,"sizeSlug":"large","linkDestination":"none"} -->
+	<figure class="wp-block-image size-large">
+		<img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/icons/googlepay.svg" alt="" class="wp-image-1032"/>
+	</figure>
+	<!-- /wp:image -->
 
-<!-- wp:list-item {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
-<li class="has-primary-color has-text-color has-link-color">PP</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --></div>
+	<!-- wp:image {"id":1033,"sizeSlug":"large","linkDestination":"none"} -->
+	<figure class="wp-block-image size-large">
+		<img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/icons/applepay.svg" alt="" class="wp-image-1033"/>
+	</figure>
+	<!-- /wp:image -->
+</div>
+<!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->]]></content:encoded>
@@ -3438,23 +3442,33 @@
 <p class="opacity-75 has-black-color has-text-color has-link-color"><a href="/about-us">Privacy Policy </a> | <a href="/my-account">Terms &amp; Condition</a> | <a href="/contact-us">Sitemap</a></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:list {"metadata":{"name":"Payment Gateways"},"className":"is-style-list-horizontal gap-16 max-md:!text-xs","style":{"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":"1.5"}},"fontSize":"base"} -->
-<ul style="font-style:normal;font-weight:700;line-height:1.5" class="wp-block-list is-style-list-horizontal gap-16 max-md:!text-xs has-base-font-size"><!-- wp:list-item -->
-<li>VS</li>
-<!-- /wp:list-item -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group">
+	<!-- wp:image {"id":1030,"sizeSlug":"large","linkDestination":"none"} -->
+	<figure class="wp-block-image size-large">
+		<img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/icons/visa.svg" alt="" class="wp-image-1030"/>
+	</figure>
+	<!-- /wp:image -->
 
-<!-- wp:list-item -->
-<li>MC</li>
-<!-- /wp:list-item -->
+	<!-- wp:image {"id":1031,"sizeSlug":"large","linkDestination":"none"} -->
+	<figure class="wp-block-image size-large">
+		<img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/icons/mastercard.svg" alt="" class="wp-image-1031"/>
+	</figure>
+	<!-- /wp:image -->
 
-<!-- wp:list-item -->
-<li>AP</li>
-<!-- /wp:list-item -->
+	<!-- wp:image {"id":1032,"sizeSlug":"large","linkDestination":"none"} -->
+	<figure class="wp-block-image size-large">
+		<img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/icons/googlepay.svg" alt="" class="wp-image-1032"/>
+	</figure>
+	<!-- /wp:image -->
 
-<!-- wp:list-item -->
-<li>PP</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --></div>
+	<!-- wp:image {"id":1033,"sizeSlug":"large","linkDestination":"none"} -->
+	<figure class="wp-block-image size-large">
+		<img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/icons/applepay.svg" alt="" class="wp-image-1033"/>
+	</figure>
+	<!-- /wp:image -->
+</div>
+<!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
@@ -4051,23 +4065,33 @@
 <p class="[&amp;_a:hover]:!text-axel-gold has-text-color has-link-color" style="color:#ffffffbf"><a href="/about-us">Privacy Policy </a>| <a href="/my-account">Terms &amp; Condition</a> | <a href="/contact-us">Sitemap</a></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:list {"metadata":{"name":"Payment Gateways"},"className":"is-style-list-horizontal gap-18 max-md:!text-xs","style":{"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":"1.5"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontSize":"base"} -->
-<ul style="font-style:normal;font-weight:700;line-height:1.5" class="wp-block-list is-style-list-horizontal gap-18 max-md:!text-xs has-primary-color has-text-color has-link-color has-base-font-size"><!-- wp:list-item -->
-<li>VS</li>
-<!-- /wp:list-item -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group">
+	<!-- wp:image {"id":1030,"sizeSlug":"large","linkDestination":"none"} -->
+	<figure class="wp-block-image size-large">
+		<img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/icons/visa.svg" alt="" class="wp-image-1030"/>
+	</figure>
+	<!-- /wp:image -->
 
-<!-- wp:list-item -->
-<li>MC</li>
-<!-- /wp:list-item -->
+	<!-- wp:image {"id":1031,"sizeSlug":"large","linkDestination":"none"} -->
+	<figure class="wp-block-image size-large">
+		<img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/icons/mastercard.svg" alt="" class="wp-image-1031"/>
+	</figure>
+	<!-- /wp:image -->
 
-<!-- wp:list-item -->
-<li>AP</li>
-<!-- /wp:list-item -->
+	<!-- wp:image {"id":1032,"sizeSlug":"large","linkDestination":"none"} -->
+	<figure class="wp-block-image size-large">
+		<img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/icons/googlepay.svg" alt="" class="wp-image-1032"/>
+	</figure>
+	<!-- /wp:image -->
 
-<!-- wp:list-item -->
-<li>PP</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --></div>
+	<!-- wp:image {"id":1033,"sizeSlug":"large","linkDestination":"none"} -->
+	<figure class="wp-block-image size-large">
+		<img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/icons/applepay.svg" alt="" class="wp-image-1033"/>
+	</figure>
+	<!-- /wp:image -->
+</div>
+<!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->]]></content:encoded>
@@ -4445,19 +4469,13 @@
 								</form>
 <!-- /wp:html -->
 
-<!-- wp:list {"className":"flex !gap-10.5 text-base/6 list-none","style":{"spacing":{"margin":{"top":"var:preset|spacing|12","bottom":"0"}}}} -->
-<ul style="margin-top:var(--wp--preset--spacing--12);margin-bottom:0" class="wp-block-list flex !gap-10.5 text-base/6 list-none"><!-- wp:list-item {"className":"font-bold"} -->
-<li class="font-bold">FB</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"className":"font-bold"} -->
-<li class="font-bold">IG</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"className":"font-bold"} -->
-<li class="font-bold">TW</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --></div>
+<!-- wp:social-links {"iconColor":"contrast","iconColorValue":"#000000","className":"is-style-logos-only","style":{"spacing":{"blockGap":{"left":"var:preset|spacing|9"},"margin":{"top":"var:preset|spacing|12"}}}} -->
+<ul class="wp-block-social-links has-icon-color is-style-logos-only" style="margin-top:var(--wp--preset--spacing--12)">
+	<!-- wp:social-link {"url":"https://www.facebook.com/","service":"facebook"} /-->
+	<!-- wp:social-link {"url":"https://www.instagram.com/","service":"instagram"} /-->
+	<!-- wp:social-link {"url":"https://x.com/","service":"x"} /-->
+</ul>
+<!-- /wp:social-links --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
@@ -4506,23 +4524,33 @@
 			</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:list {"metadata":{"name":"Payment Gateways"},"className":"is-style-list-horizontal gap-12 max-md:!text-xs","style":{"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":"1.5"}},"fontSize":"base"} -->
-<ul style="font-style:normal;font-weight:700;line-height:1.5" class="wp-block-list is-style-list-horizontal gap-12 max-md:!text-xs has-base-font-size"><!-- wp:list-item {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
-<li class="has-primary-color has-text-color has-link-color">VS</li>
-<!-- /wp:list-item -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group">
+	<!-- wp:image {"id":1030,"sizeSlug":"large","linkDestination":"none"} -->
+	<figure class="wp-block-image size-large">
+		<img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/icons/visa.svg" alt="" class="wp-image-1030"/>
+	</figure>
+	<!-- /wp:image -->
 
-<!-- wp:list-item {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
-<li class="has-primary-color has-text-color has-link-color">MC</li>
-<!-- /wp:list-item -->
+	<!-- wp:image {"id":1031,"sizeSlug":"large","linkDestination":"none"} -->
+	<figure class="wp-block-image size-large">
+		<img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/icons/mastercard.svg" alt="" class="wp-image-1031"/>
+	</figure>
+	<!-- /wp:image -->
 
-<!-- wp:list-item {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
-<li class="has-primary-color has-text-color has-link-color">AP</li>
-<!-- /wp:list-item -->
+	<!-- wp:image {"id":1032,"sizeSlug":"large","linkDestination":"none"} -->
+	<figure class="wp-block-image size-large">
+		<img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/icons/googlepay.svg" alt="" class="wp-image-1032"/>
+	</figure>
+	<!-- /wp:image -->
 
-<!-- wp:list-item {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
-<li class="has-primary-color has-text-color has-link-color">PP</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --></div>
+	<!-- wp:image {"id":1033,"sizeSlug":"large","linkDestination":"none"} -->
+	<figure class="wp-block-image size-large">
+		<img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/icons/applepay.svg" alt="" class="wp-image-1033"/>
+	</figure>
+	<!-- /wp:image -->
+</div>
+<!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->]]></content:encoded>
@@ -15146,19 +15174,13 @@ Whether you're attending a formal event, celebrating a special occasion, or simp
 								</form>
 <!-- /wp:html -->
 
-<!-- wp:list {"className":"flex !gap-10.5 text-base/6 list-none","style":{"spacing":{"margin":{"top":"var:preset|spacing|12","bottom":"0"}}}} -->
-<ul style="margin-top:var(--wp--preset--spacing--12);margin-bottom:0" class="wp-block-list flex !gap-10.5 text-base/6 list-none"><!-- wp:list-item {"className":"font-bold"} -->
-<li class="font-bold">FB</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"className":"font-bold"} -->
-<li class="font-bold">IG</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"className":"font-bold"} -->
-<li class="font-bold">TW</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --></div>
+<!-- wp:social-links {"iconColor":"contrast","iconColorValue":"#000000","className":"is-style-logos-only","style":{"spacing":{"blockGap":{"left":"var:preset|spacing|9"},"margin":{"top":"var:preset|spacing|12"}}}} -->
+<ul class="wp-block-social-links has-icon-color is-style-logos-only" style="margin-top:var(--wp--preset--spacing--12)">
+	<!-- wp:social-link {"url":"https://www.facebook.com/","service":"facebook"} /-->
+	<!-- wp:social-link {"url":"https://www.instagram.com/","service":"instagram"} /-->
+	<!-- wp:social-link {"url":"https://x.com/","service":"x"} /-->
+</ul>
+<!-- /wp:social-links --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
@@ -15207,23 +15229,33 @@ Whether you're attending a formal event, celebrating a special occasion, or simp
 			</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:list {"metadata":{"name":"Payment Gateways"},"className":"is-style-list-horizontal gap-12 max-md:!text-xs","style":{"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":"1.5"}},"fontSize":"base"} -->
-<ul style="font-style:normal;font-weight:700;line-height:1.5" class="wp-block-list is-style-list-horizontal gap-12 max-md:!text-xs has-base-font-size"><!-- wp:list-item {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
-<li class="has-primary-color has-text-color has-link-color">VS</li>
-<!-- /wp:list-item -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group">
+	<!-- wp:image {"id":1030,"sizeSlug":"large","linkDestination":"none"} -->
+	<figure class="wp-block-image size-large">
+		<img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/icons/visa.svg" alt="" class="wp-image-1030"/>
+	</figure>
+	<!-- /wp:image -->
 
-<!-- wp:list-item {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
-<li class="has-primary-color has-text-color has-link-color">MC</li>
-<!-- /wp:list-item -->
+	<!-- wp:image {"id":1031,"sizeSlug":"large","linkDestination":"none"} -->
+	<figure class="wp-block-image size-large">
+		<img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/icons/mastercard.svg" alt="" class="wp-image-1031"/>
+	</figure>
+	<!-- /wp:image -->
 
-<!-- wp:list-item {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
-<li class="has-primary-color has-text-color has-link-color">AP</li>
-<!-- /wp:list-item -->
+	<!-- wp:image {"id":1032,"sizeSlug":"large","linkDestination":"none"} -->
+	<figure class="wp-block-image size-large">
+		<img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/icons/googlepay.svg" alt="" class="wp-image-1032"/>
+	</figure>
+	<!-- /wp:image -->
 
-<!-- wp:list-item {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
-<li class="has-primary-color has-text-color has-link-color">PP</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --></div>
+	<!-- wp:image {"id":1033,"sizeSlug":"large","linkDestination":"none"} -->
+	<figure class="wp-block-image size-large">
+		<img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/icons/applepay.svg" alt="" class="wp-image-1033"/>
+	</figure>
+	<!-- /wp:image -->
+</div>
+<!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->]]></content:encoded>
@@ -15524,23 +15556,33 @@ Whether you're attending a formal event, celebrating a special occasion, or simp
 <p class="[&amp;_a:hover]:!text-axel-gold has-text-color has-link-color" style="color:#ffffffbf"><a href="/about-us">Privacy Policy </a>| <a href="/my-account">Terms &amp; Condition</a> | <a href="/contact-us">Sitemap</a></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:list {"metadata":{"name":"Payment Gateways"},"className":"is-style-list-horizontal gap-18 max-md:!text-xs","style":{"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":"1.5"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontSize":"base"} -->
-<ul style="font-style:normal;font-weight:700;line-height:1.5" class="wp-block-list is-style-list-horizontal gap-18 max-md:!text-xs has-primary-color has-text-color has-link-color has-base-font-size"><!-- wp:list-item -->
-<li>VS</li>
-<!-- /wp:list-item -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group">
+	<!-- wp:image {"id":1030,"sizeSlug":"large","linkDestination":"none"} -->
+	<figure class="wp-block-image size-large">
+		<img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/icons/visa.svg" alt="" class="wp-image-1030"/>
+	</figure>
+	<!-- /wp:image -->
 
-<!-- wp:list-item -->
-<li>MC</li>
-<!-- /wp:list-item -->
+	<!-- wp:image {"id":1031,"sizeSlug":"large","linkDestination":"none"} -->
+	<figure class="wp-block-image size-large">
+		<img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/icons/mastercard.svg" alt="" class="wp-image-1031"/>
+	</figure>
+	<!-- /wp:image -->
 
-<!-- wp:list-item -->
-<li>AP</li>
-<!-- /wp:list-item -->
+	<!-- wp:image {"id":1032,"sizeSlug":"large","linkDestination":"none"} -->
+	<figure class="wp-block-image size-large">
+		<img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/icons/googlepay.svg" alt="" class="wp-image-1032"/>
+	</figure>
+	<!-- /wp:image -->
 
-<!-- wp:list-item -->
-<li>PP</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --></div>
+	<!-- wp:image {"id":1033,"sizeSlug":"large","linkDestination":"none"} -->
+	<figure class="wp-block-image size-large">
+		<img src="https://axels.madrasthemes.com/wp-content/themes/axels-wp/assets/images/icons/applepay.svg" alt="" class="wp-image-1033"/>
+	</figure>
+	<!-- /wp:image -->
+</div>
+<!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->]]></content:encoded>
