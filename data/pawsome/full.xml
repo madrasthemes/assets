@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress/6.9" created="2025-12-31 12:45" -->
+<!-- generator="WordPress/6.9" created="2026-01-02 08:24" -->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Pawsome</title>
 <link>http://pawsome.madrasthemes.com</link>
 <description>Your pet’s favorite store, delivered to your door</description>
-<pubDate>Wed, 31 Dec 2025 12:45:17 +0000</pubDate>
+<pubDate>Fri, 02 Jan 2026 08:24:53 +0000</pubDate>
 <language>en-US</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://pawsome.madrasthemes.com</wp:base_site_url>
@@ -12881,73 +12881,6 @@ Perfect for solo chewing or interactive games like tug-of-war, this toy encourag
   <wp:is_sticky>0</wp:is_sticky>
 </item>
 <item>
-  <title><![CDATA[Primary Menu]]></title>
-  <link>http://pawsome.madrasthemes.com/primary-menu/</link>
-  <pubDate>Fri, 12 Dec 2025 11:25:28 +0000</pubDate>
-  <dc:creator>anas</dc:creator>
-  <guid isPermaLink="false">https://pawsome.madrasthemes.com/?p=191</guid>
-  <description/>
-  <content:encoded><![CDATA[<!-- wp:navigation-submenu {"label":"Home","type":"page","url":"/","kind":"post-type"} -->
-<!-- wp:navigation-link {"label":"Home v1","type":"page","url":"/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"Home v2","type":"page","url":"/home-v2/","kind":"post-type"} /-->
-<!-- /wp:navigation-submenu -->
-
-<!-- wp:navigation-submenu {"label":"Shop","type":"page","url":"#","kind":"post-type"} -->
-<!-- wp:navigation-link {"label":"Shop","type":"page","id":70,"url":"https://pawsome.madrasthemes.com/shop/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
-
-<!-- wp:navigation-link {"label":"Simple Product","url":"/product/soft-rope-toy-for-dogs/","kind":"custom"} /-->
-
-<!-- wp:navigation-link {"label":"Variable Product","type":"page","url":"/product/dry-food-with-chicken-beef/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"Grouped Product","type":"page","url":"/product/daily-food-set-for-adult-dogs/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"External Product","type":"page","url":"/product/bone-treats-for-seniour-cats/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"Out of stock Product","type":"page","url":"/product/dry-food-for-dog/","kind":"post-type"} /-->
-<!-- /wp:navigation-submenu -->
-
-<!-- wp:navigation-submenu {"label":"Category","type":"page","url":"#","kind":"post-type","className":"is-style-mega-menu"} -->
-<!-- /wp:navigation-submenu -->
-
-<!-- wp:navigation-submenu {"label":"Pages","type":"page","url":"#","kind":"post-type"} -->
-<!-- wp:navigation-link {"label":"Cart","type":"page","id":71,"url":"https://pawsome.madrasthemes.com/cart/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
-
-<!-- wp:navigation-link {"label":"Checkout","type":"page","id":72,"url":"https://pawsome.madrasthemes.com/checkout/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
-
-<!-- wp:navigation-link {"label":"About","type":"page","url":"/about/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"Contact us","type":"page","url":"/contact-us/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"Login","type":"page","id":73,"url":"https://pawsome.madrasthemes.com/my-account/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
-
-<!-- wp:navigation-link {"label":"404","type":"page","url":"/404","kind":"post-type"} /-->
-<!-- /wp:navigation-submenu -->
-
-<!-- wp:navigation-submenu {"label":"Blog","type":"page","url":"About%20us","kind":"post-type"} -->
-<!-- wp:navigation-link {"label":"Blog","type":"page","url":"/blog/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"Blog Single","type":"link","url":"/why-dogs-eat-grass-and-whether-you-should-be-concerned-3/","kind":"custom"} /-->
-<!-- /wp:navigation-submenu -->
-
-<!-- wp:navigation-link {"label":"Contact us","type":"page","url":"/contact-us/","kind":"post-type"} /-->]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>191</wp:post_id>
-  <wp:post_date>2025-12-12 11:25:28</wp:post_date>
-  <wp:post_date_gmt>2025-12-12 11:25:28</wp:post_date_gmt>
-  <wp:post_modified>2025-12-12 12:44:29</wp:post_modified>
-  <wp:post_modified_gmt>2025-12-12 12:44:29</wp:post_modified_gmt>
-  <wp:comment_status>closed</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>primary-menu</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>wp_navigation</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-</item>
-<item>
   <title><![CDATA[Header]]></title>
   <link>http://pawsome.madrasthemes.com/header/</link>
   <pubDate>Fri, 12 Dec 2025 11:25:28 +0000</pubDate>
@@ -12957,7 +12890,7 @@ Perfect for solo chewing or interactive games like tug-of-war, this toy encourag
   <content:encoded><![CDATA[<!-- wp:group {"metadata":{"name":"Header"},"align":"full","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"backgroundColor":"teal-800","textColor":"white","layout":{"type":"default"}} -->
 <div class="wp-block-group alignfull has-white-color has-teal-800-background-color has-text-color has-background has-link-color"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:group {"align":"wide","className":"is-style-header-position","style":{"typography":{"lineHeight":"1.5","letterSpacing":"-0.32px"}},"fontSize":"base","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
-<div class="wp-block-group alignwide is-style-header-position has-base-font-size" style="letter-spacing:-0.32px;line-height:1.5"><!-- wp:navigation {"ref":191,"icon":"menu","metadata":{"ignoredHookedBlocks":["woocommerce/customer-account"]},"className":"is-style-header-menu","style":{"spacing":{"blockGap":"var:preset|spacing|7"}},"layout":{"type":"flex","flexWrap":"nowrap"}} /-->
+<div class="wp-block-group alignwide is-style-header-position has-base-font-size" style="letter-spacing:-0.32px;line-height:1.5"><!-- wp:navigation {"ref":438,"icon":"menu","metadata":{"ignoredHookedBlocks":["woocommerce/customer-account"]},"className":"is-style-header-menu","style":{"spacing":{"blockGap":"var:preset|spacing|7"}},"layout":{"type":"flex","flexWrap":"nowrap"}} /-->
 
 <!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|8","padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|2"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--4);padding-bottom:var(--wp--preset--spacing--2)"><!-- wp:site-logo {"width":124,"style":{"layout":{"selfStretch":"fixed","flexSize":"124px"}}} /-->
@@ -12979,8 +12912,8 @@ Perfect for solo chewing or interactive games like tug-of-war, this toy encourag
   <wp:post_id>193</wp:post_id>
   <wp:post_date>2025-12-12 11:25:28</wp:post_date>
   <wp:post_date_gmt>2025-12-12 11:25:28</wp:post_date_gmt>
-  <wp:post_modified>2025-12-12 11:25:28</wp:post_modified>
-  <wp:post_modified_gmt>2025-12-12 11:25:28</wp:post_modified_gmt>
+  <wp:post_modified>2026-01-02 08:13:54</wp:post_modified>
+  <wp:post_modified_gmt>2026-01-02 08:13:54</wp:post_modified_gmt>
   <wp:comment_status>closed</wp:comment_status>
   <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>header</wp:post_name>
@@ -14343,6 +14276,73 @@ Perfect for solo chewing or interactive games like tug-of-war, this toy encourag
     <wp:meta_key>_price</wp:meta_key>
     <wp:meta_value><![CDATA[25]]></wp:meta_value>
   </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Primary Menu]]></title>
+  <link>http://pawsome.madrasthemes.com/primary-menu-copy/</link>
+  <pubDate>Fri, 02 Jan 2026 08:12:39 +0000</pubDate>
+  <dc:creator>pawsome</dc:creator>
+  <guid isPermaLink="false">https://pawsome.madrasthemes.com/primary-menu-copy/</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:navigation-submenu {"label":"Home","type":"page","url":"/","kind":"post-type"} -->
+<!-- wp:navigation-link {"label":"Home v1","type":"page","url":"/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Home v2","type":"page","url":"/home-v2/","kind":"post-type"} /-->
+<!-- /wp:navigation-submenu -->
+
+<!-- wp:navigation-submenu {"label":"Shop","type":"page","url":"#","kind":"post-type"} -->
+<!-- wp:navigation-link {"label":"Shop","type":"page","id":70,"url":"https://pawsome.madrasthemes.com/shop/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
+
+<!-- wp:navigation-link {"label":"Simple Product","url":"/product/soft-rope-toy-for-dogs/","kind":"custom"} /-->
+
+<!-- wp:navigation-link {"label":"Variable Product","type":"page","url":"/product/dry-food-with-chicken-beef/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Grouped Product","type":"page","url":"/product/daily-food-set-for-adult-dogs/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"External Product","type":"page","url":"/product/bone-treats-for-seniour-cats/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Out of stock Product","type":"page","url":"/product/dry-food-for-dog/","kind":"post-type"} /-->
+<!-- /wp:navigation-submenu -->
+
+<!-- wp:navigation-submenu {"label":"Category","type":"page","url":"#","kind":"post-type","className":"is-style-mega-menu"} -->
+<!-- /wp:navigation-submenu -->
+
+<!-- wp:navigation-submenu {"label":"Pages","type":"page","url":"#","kind":"post-type"} -->
+<!-- wp:navigation-link {"label":"Cart","type":"page","id":71,"url":"https://pawsome.madrasthemes.com/cart/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
+
+<!-- wp:navigation-link {"label":"Checkout","type":"page","id":72,"url":"https://pawsome.madrasthemes.com/checkout/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
+
+<!-- wp:navigation-link {"label":"About","type":"page","url":"/about/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Contact us","type":"page","url":"/contact-us/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Login","type":"page","id":73,"url":"https://pawsome.madrasthemes.com/my-account/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
+
+<!-- wp:navigation-link {"label":"404","type":"page","url":"/404","kind":"post-type"} /-->
+<!-- /wp:navigation-submenu -->
+
+<!-- wp:navigation-submenu {"label":"Blog","type":"page","url":"About%20us","kind":"post-type"} -->
+<!-- wp:navigation-link {"label":"Blog","type":"page","url":"/blog/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Blog Single","type":"link","url":"/why-dogs-eat-grass-and-whether-you-should-be-concerned-3/","kind":"custom"} /-->
+<!-- /wp:navigation-submenu -->
+
+<!-- wp:navigation-link {"label":"Contact us","type":"page","url":"/contact-us/","kind":"post-type"} /-->]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>438</wp:post_id>
+  <wp:post_date>2026-01-02 08:12:39</wp:post_date>
+  <wp:post_date_gmt>2026-01-02 08:12:39</wp:post_date_gmt>
+  <wp:post_modified>2026-01-02 08:13:13</wp:post_modified>
+  <wp:post_modified_gmt>2026-01-02 08:13:13</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>primary-menu-copy</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>wp_navigation</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
 </item>
   </channel>
 </rss>
