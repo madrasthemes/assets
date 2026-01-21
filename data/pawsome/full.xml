@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress/6.9" created="2025-12-23 09:47" -->
+<!-- generator="WordPress/6.9" created="2026-01-02 08:24" -->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Pawsome</title>
 <link>http://pawsome.madrasthemes.com</link>
 <description>Your pet’s favorite store, delivered to your door</description>
-<pubDate>Tue, 23 Dec 2025 09:47:27 +0000</pubDate>
+<pubDate>Fri, 02 Jan 2026 08:24:53 +0000</pubDate>
 <language>en-US</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://pawsome.madrasthemes.com</wp:base_site_url>
@@ -2931,8 +2931,8 @@
   <wp:post_id>24</wp:post_id>
   <wp:post_date>2025-12-12 08:03:05</wp:post_date>
   <wp:post_date_gmt>2025-12-12 08:03:05</wp:post_date_gmt>
-  <wp:post_modified>2025-12-12 08:03:05</wp:post_modified>
-  <wp:post_modified_gmt>2025-12-12 08:03:05</wp:post_modified_gmt>
+  <wp:post_modified>2025-12-24 14:35:39</wp:post_modified>
+  <wp:post_modified_gmt>2025-12-24 14:35:39</wp:post_modified_gmt>
   <wp:comment_status>closed</wp:comment_status>
   <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>home-v1</wp:post_name>
@@ -2945,6 +2945,10 @@
   <wp:postmeta>
     <wp:meta_key>_wp_page_template</wp:meta_key>
     <wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[2]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -8664,148 +8668,6 @@
   </wp:postmeta>
 </item>
 <item>
-  <title><![CDATA[Mega Menu]]></title>
-  <link>http://pawsome.madrasthemes.com/?mas_static_content=mega-menu</link>
-  <pubDate>Fri, 12 Dec 2025 11:20:46 +0000</pubDate>
-  <dc:creator>anas</dc:creator>
-  <guid isPermaLink="false">https://pawsome.madrasthemes.com/?post_type=mas_static_content&amp;p=189</guid>
-  <description/>
-  <content:encoded><![CDATA[<!-- wp:group {"metadata":{"name":"Mega Menu","categories":["header"],"patternName":"pawsome/mega-menu"},"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|12","bottom":"var:preset|spacing|12","left":"var:preset|spacing|12","right":"var:preset|spacing|12"}},"border":{"radius":"24px"}},"backgroundColor":"white","layout":{"type":"default"}} -->
-<div class="wp-block-group alignwide has-white-background-color has-background" style="border-radius:24px;padding-top:var(--wp--preset--spacing--12);padding-right:var(--wp--preset--spacing--12);padding-bottom:var(--wp--preset--spacing--12);padding-left:var(--wp--preset--spacing--12)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"left":"var:preset|spacing|28"}}}} -->
-<div class="wp-block-columns alignwide"><!-- wp:column {"width":"46%"} -->
-<div class="wp-block-column" style="flex-basis:46%"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|9"}}}} -->
-<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|6"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"className":"is-style-widget-title-sm"} -->
-<h2 class="wp-block-heading is-style-widget-title-sm">Dogs</h2>
-<!-- /wp:heading -->
-
-<!-- wp:navigation {"ref":265,"overlayMenu":"never","metadata":{"ignoredHookedBlocks":["woocommerce/customer-account"]},"className":"is-style-header-menu","layout":{"type":"flex","orientation":"vertical"}} /-->
-
-<!-- wp:woocommerce/mini-cart /--></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"><!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"className":"is-style-widget-title-sm"} -->
-<h2 class="wp-block-heading is-style-widget-title-sm">Cats</h2>
-<!-- /wp:heading -->
-
-<!-- wp:navigation {"ref":266,"overlayMenu":"never","metadata":{"ignoredHookedBlocks":["woocommerce/customer-account"]},"className":"is-style-header-menu","layout":{"type":"flex","orientation":"vertical"}} /--></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"><!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"className":"is-style-widget-title-sm"} -->
-<h2 class="wp-block-heading is-style-widget-title-sm">Parrots</h2>
-<!-- /wp:heading -->
-
-<!-- wp:navigation {"ref":268,"overlayMenu":"never","metadata":{"ignoredHookedBlocks":["woocommerce/customer-account"]},"className":"is-style-header-menu","layout":{"type":"flex","orientation":"vertical"}} /--></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"><!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"className":"is-style-widget-title-sm"} -->
-<h2 class="wp-block-heading is-style-widget-title-sm">Rodents</h2>
-<!-- /wp:heading -->
-
-<!-- wp:navigation {"ref":269,"overlayMenu":"never","metadata":{"ignoredHookedBlocks":["woocommerce/customer-account"]},"className":"is-style-header-menu","layout":{"type":"flex","orientation":"vertical"}} /--></div>
-<!-- /wp:group --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"54%"} -->
-<div class="wp-block-column" style="flex-basis:54%"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|6"}}}} -->
-<div class="wp-block-columns"><!-- wp:column {"width":"50%"} -->
-<div class="wp-block-column" style="flex-basis:50%"><!-- wp:cover {"url":"https://pawsome.madrasthemes.com/wp-content/themes/pawsome/assets/images/mega/cover-1.webp","id":132,"dimRatio":0,"isUserOverlayColor":true,"minHeight":300,"contentPosition":"top left","isDark":false,"sizeSlug":"full","className":"is-style-stretched-link","style":{"border":{"radius":"24px"},"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10","left":"var:preset|spacing|10","right":"var:preset|spacing|10"},"blockGap":"var:preset|spacing|6"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-cover is-light has-custom-content-position is-position-top-left is-style-stretched-link" style="border-radius:24px;padding-top:var(--wp--preset--spacing--10);padding-right:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--10);min-height:300px"><img class="wp-block-cover__image-background wp-image-132 size-full" alt="" src="https://pawsome.madrasthemes.com/wp-content/themes/pawsome/assets/images/mega/cover-1.webp" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"left","placeholder":"Write title…","className":"is-style-default","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":"1.33"}},"textColor":"white","fontSize":"2xl"} -->
-<p class="has-text-align-left is-style-default has-white-color has-text-color has-link-color has-2-xl-font-size" style="font-style:normal;font-weight:600;line-height:1.33">Up to 20% off on diet food</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":"is-style-btn-link","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"lineHeight":"1.44"}},"textColor":"white","fontSize":"lg"} -->
-<p class="is-style-btn-link has-white-color has-text-color has-link-color has-lg-font-size" style="line-height:1.44"><a href="/shop">Shop</a><a href="#"> now</a></p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"50%"} -->
-<div class="wp-block-column" style="flex-basis:50%"><!-- wp:cover {"url":"https://pawsome.madrasthemes.com/wp-content/themes/pawsome/assets/images/mega/cover-2.webp","id":133,"dimRatio":0,"isUserOverlayColor":true,"minHeight":300,"contentPosition":"top left","isDark":false,"sizeSlug":"full","className":"is-style-stretched-link","style":{"border":{"radius":"24px"},"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10","left":"var:preset|spacing|10","right":"var:preset|spacing|12"},"blockGap":"var:preset|spacing|6"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-cover is-light has-custom-content-position is-position-top-left is-style-stretched-link" style="border-radius:24px;padding-top:var(--wp--preset--spacing--10);padding-right:var(--wp--preset--spacing--12);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--10);min-height:300px"><img class="wp-block-cover__image-background wp-image-133 size-full" alt="" src="https://pawsome.madrasthemes.com/wp-content/themes/pawsome/assets/images/mega/cover-2.webp" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"left","placeholder":"Write title…","className":"is-style-default","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":"1.33"}},"textColor":"white","fontSize":"2xl"} -->
-<p class="has-text-align-left is-style-default has-white-color has-text-color has-link-color has-2-xl-font-size" style="font-style:normal;font-weight:600;line-height:1.33">Up to 45% off on cat litter</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":"is-style-btn-link","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"lineHeight":"1.44"}},"textColor":"white","fontSize":"lg"} -->
-<p class="is-style-btn-link has-white-color has-text-color has-link-color has-lg-font-size" style="line-height:1.44"><a href="/shop">Shop</a><a href="#"> now</a></p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>189</wp:post_id>
-  <wp:post_date>2025-12-12 11:20:46</wp:post_date>
-  <wp:post_date_gmt>2025-12-12 11:20:46</wp:post_date_gmt>
-  <wp:post_modified>2025-12-12 13:47:36</wp:post_modified>
-  <wp:post_modified_gmt>2025-12-12 13:47:36</wp:post_modified_gmt>
-  <wp:comment_status>closed</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>mega-menu</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>mas_static_content</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <wp:postmeta>
-    <wp:meta_key>_wp_page_template</wp:meta_key>
-    <wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title><![CDATA[Test]]></title>
-  <link>http://pawsome.madrasthemes.com/?post_type=mas_static_content&amp;p=234</link>
-  <pubDate>Fri, 12 Dec 2025 12:10:11 +0000</pubDate>
-  <dc:creator>anas</dc:creator>
-  <guid isPermaLink="false">https://pawsome.madrasthemes.com/?post_type=mas_static_content&amp;p=234</guid>
-  <description/>
-  <content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Test</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>234</wp:post_id>
-  <wp:post_date>2025-12-12 12:10:11</wp:post_date>
-  <wp:post_date_gmt>2025-12-12 12:10:11</wp:post_date_gmt>
-  <wp:post_modified>2025-12-12 12:13:13</wp:post_modified>
-  <wp:post_modified_gmt>2025-12-12 12:13:13</wp:post_modified_gmt>
-  <wp:comment_status>closed</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>test__trashed</wp:post_name>
-  <wp:status>trash</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>mas_static_content</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <wp:postmeta>
-    <wp:meta_key>_wp_trash_meta_status</wp:meta_key>
-    <wp:meta_value><![CDATA[publish]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_trash_meta_time</wp:meta_key>
-    <wp:meta_value><![CDATA[1765541593]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_desired_post_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[test]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
   <title><![CDATA[16]]></title>
   <link>http://pawsome.madrasthemes.com/should-i-choose-dry-or-wet-food/attachment/16/</link>
   <pubDate>Fri, 12 Dec 2025 13:09:08 +0000</pubDate>
@@ -13019,74 +12881,6 @@ Perfect for solo chewing or interactive games like tug-of-war, this toy encourag
   <wp:is_sticky>0</wp:is_sticky>
 </item>
 <item>
-  <title><![CDATA[Primary Menu]]></title>
-  <link>http://pawsome.madrasthemes.com/primary-menu/</link>
-  <pubDate>Fri, 12 Dec 2025 11:25:28 +0000</pubDate>
-  <dc:creator>anas</dc:creator>
-  <guid isPermaLink="false">https://pawsome.madrasthemes.com/?p=191</guid>
-  <description/>
-  <content:encoded><![CDATA[<!-- wp:navigation-submenu {"label":"Home","type":"page","url":"/","kind":"post-type"} -->
-<!-- wp:navigation-link {"label":"Home v1","type":"page","url":"/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"Home v2","type":"page","url":"/home-v2/","kind":"post-type"} /-->
-<!-- /wp:navigation-submenu -->
-
-<!-- wp:navigation-submenu {"label":"Shop","type":"page","url":"#","kind":"post-type"} -->
-<!-- wp:navigation-link {"label":"Shop","type":"page","id":70,"url":"https://pawsome.madrasthemes.com/shop/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
-
-<!-- wp:navigation-link {"label":"Simple Product","url":"/product/soft-rope-toy-for-dogs/","kind":"custom"} /-->
-
-<!-- wp:navigation-link {"label":"Variable Product","type":"page","url":"/product/dry-food-with-chicken-beef/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"Grouped Product","type":"page","url":"/product/daily-food-set-for-adult-dogs/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"External Product","type":"page","url":"/product/bone-treats-for-seniour-cats/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"Out of stock Product","type":"page","url":"/product/dry-food-for-dog/","kind":"post-type"} /-->
-<!-- /wp:navigation-submenu -->
-
-<!-- wp:navigation-submenu {"label":"Category","type":"page","url":"#","kind":"post-type","className":"is-style-mega-menu"} -->
-<!-- wp:mas-static-content/navigation-static-content {"staticContentId":189} /-->
-<!-- /wp:navigation-submenu -->
-
-<!-- wp:navigation-submenu {"label":"Pages","type":"page","url":"#","kind":"post-type"} -->
-<!-- wp:navigation-link {"label":"Cart","type":"page","id":71,"url":"https://pawsome.madrasthemes.com/cart/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
-
-<!-- wp:navigation-link {"label":"Checkout","type":"page","id":72,"url":"https://pawsome.madrasthemes.com/checkout/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
-
-<!-- wp:navigation-link {"label":"About","type":"page","url":"/about/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"Contact us","type":"page","url":"/contact-us/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"Login","type":"page","id":73,"url":"https://pawsome.madrasthemes.com/my-account/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
-
-<!-- wp:navigation-link {"label":"404","type":"page","url":"/404","kind":"post-type"} /-->
-<!-- /wp:navigation-submenu -->
-
-<!-- wp:navigation-submenu {"label":"Blog","type":"page","url":"About%20us","kind":"post-type"} -->
-<!-- wp:navigation-link {"label":"Blog","type":"page","url":"/blog/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"Blog Single","type":"link","url":"/why-dogs-eat-grass-and-whether-you-should-be-concerned-3/","kind":"custom"} /-->
-<!-- /wp:navigation-submenu -->
-
-<!-- wp:navigation-link {"label":"Contact us","type":"page","url":"/contact-us/","kind":"post-type"} /-->]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>191</wp:post_id>
-  <wp:post_date>2025-12-12 11:25:28</wp:post_date>
-  <wp:post_date_gmt>2025-12-12 11:25:28</wp:post_date_gmt>
-  <wp:post_modified>2025-12-12 12:44:29</wp:post_modified>
-  <wp:post_modified_gmt>2025-12-12 12:44:29</wp:post_modified_gmt>
-  <wp:comment_status>closed</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>primary-menu</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>wp_navigation</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-</item>
-<item>
   <title><![CDATA[Header]]></title>
   <link>http://pawsome.madrasthemes.com/header/</link>
   <pubDate>Fri, 12 Dec 2025 11:25:28 +0000</pubDate>
@@ -13096,7 +12890,7 @@ Perfect for solo chewing or interactive games like tug-of-war, this toy encourag
   <content:encoded><![CDATA[<!-- wp:group {"metadata":{"name":"Header"},"align":"full","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"backgroundColor":"teal-800","textColor":"white","layout":{"type":"default"}} -->
 <div class="wp-block-group alignfull has-white-color has-teal-800-background-color has-text-color has-background has-link-color"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:group {"align":"wide","className":"is-style-header-position","style":{"typography":{"lineHeight":"1.5","letterSpacing":"-0.32px"}},"fontSize":"base","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
-<div class="wp-block-group alignwide is-style-header-position has-base-font-size" style="letter-spacing:-0.32px;line-height:1.5"><!-- wp:navigation {"ref":191,"icon":"menu","metadata":{"ignoredHookedBlocks":["woocommerce/customer-account"]},"className":"is-style-header-menu","style":{"spacing":{"blockGap":"var:preset|spacing|7"}},"layout":{"type":"flex","flexWrap":"nowrap"}} /-->
+<div class="wp-block-group alignwide is-style-header-position has-base-font-size" style="letter-spacing:-0.32px;line-height:1.5"><!-- wp:navigation {"ref":438,"icon":"menu","metadata":{"ignoredHookedBlocks":["woocommerce/customer-account"]},"className":"is-style-header-menu","style":{"spacing":{"blockGap":"var:preset|spacing|7"}},"layout":{"type":"flex","flexWrap":"nowrap"}} /-->
 
 <!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|8","padding":{"top":"var:preset|spacing|4","bottom":"var:preset|spacing|2"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--4);padding-bottom:var(--wp--preset--spacing--2)"><!-- wp:site-logo {"width":124,"style":{"layout":{"selfStretch":"fixed","flexSize":"124px"}}} /-->
@@ -13118,8 +12912,8 @@ Perfect for solo chewing or interactive games like tug-of-war, this toy encourag
   <wp:post_id>193</wp:post_id>
   <wp:post_date>2025-12-12 11:25:28</wp:post_date>
   <wp:post_date_gmt>2025-12-12 11:25:28</wp:post_date_gmt>
-  <wp:post_modified>2025-12-12 11:25:28</wp:post_modified>
-  <wp:post_modified_gmt>2025-12-12 11:25:28</wp:post_modified_gmt>
+  <wp:post_modified>2026-01-02 08:13:54</wp:post_modified>
+  <wp:post_modified_gmt>2026-01-02 08:13:54</wp:post_modified_gmt>
   <wp:comment_status>closed</wp:comment_status>
   <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>header</wp:post_name>
@@ -13462,155 +13256,6 @@ Perfect for solo chewing or interactive games like tug-of-war, this toy encourag
   <wp:post_type>wp_navigation</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-</item>
-<item>
-  <title><![CDATA[Footer]]></title>
-  <link>http://pawsome.madrasthemes.com/footer/</link>
-  <pubDate>Mon, 15 Dec 2025 13:32:22 +0000</pubDate>
-  <dc:creator>pawsome</dc:creator>
-  <guid isPermaLink="false">https://pawsome.madrasthemes.com/footer/</guid>
-  <description/>
-  <content:encoded><![CDATA[<!-- wp:group {"metadata":{"name":"Separator"},"align":"full","className":"is-style-group-separator-wave","backgroundColor":"teal-800","layout":{"type":"default"}} -->
-<div class="wp-block-group alignfull is-style-group-separator-wave has-teal-800-background-color has-background"><!-- wp:spacer {"height":"40px","className":"is-style-spacer-union"} -->
-<div style="height:40px" aria-hidden="true" class="wp-block-spacer is-style-spacer-union"></div>
-<!-- /wp:spacer --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|14","bottom":"var:preset|spacing|6"}},"elements":{"link":{"color":{"text":"var:preset|color|zinc-200"}},"heading":{"color":{"text":"var:preset|color|white"}}}},"backgroundColor":"teal-800","textColor":"zinc-200","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-zinc-200-color has-teal-800-background-color has-text-color has-background has-link-color" style="padding-top:var(--wp--preset--spacing--14);padding-bottom:var(--wp--preset--spacing--6)"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|24"}},"layout":{"type":"default"}} -->
-<div class="wp-block-group alignwide"><!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
-<div class="wp-block-column" style="flex-basis:100%"><!-- wp:group {"style":{"spacing":{"blockGap":"40px"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:site-logo {"width":196} /-->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"8px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"typography":{"fontStyle":"normal","fontWeight":"400"}},"fontSize":"lg"} -->
-<h4 class="wp-block-heading has-lg-font-size" style="font-style:normal;font-weight:400">Subscribe the newsletter</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"fontSize":"base"} -->
-<p class="has-base-font-size">Receive hot promotions, private sales, and news</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"margin":{"top":"24px"}}},"layout":{"type":"constrained","contentSize":"400px","justifyContent":"left"}} -->
-<div class="wp-block-group" style="margin-top:24px"><!-- wp:html -->
-<form action="#" method="post" style="width:100%"><div style="display:flex;align-items:center;justify-content:space-between;padding:var(--Spacing-2,8px) var(--Spacing-2,8px) var(--Spacing-2,8px) var(--Spacing-6,24px);gap:10px;align-self:stretch;border-radius:var(--Border-Radius-rounded-2xl,16px);border:1px solid rgba(255,255,255,.2);background:transparent"><input type="email" name="email" placeholder="Enter email" required style="flex:1;background:transparent;border:none;outline:none;color:var(--wp--preset--color--zinc-200);font-family:Figtree;font-size:16px;font-style:normal;font-weight:400;line-height:24px;letter-spacing:-.32px"><button type="submit" aria-label="Submit email" style="display:flex;padding:var(--Spacing-25,10px);justify-content:center;align-items:center;gap:var(--Spacing-0,0);border-radius:999px;border:none;background:#fff;cursor:pointer;appearance:none;-webkit-appearance:none"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true"><path d="M7.31753 3.30771L13.5675 9.55771C13.6256 9.61575 13.6717 9.68468 13.7032 9.76056C13.7347 9.83643 13.7508 9.91776 13.7508 9.9999C13.7508 10.082 13.7347 10.1634 13.7032 10.2392C13.6717 10.3151 13.6256 10.384 13.5675 10.4421L7.31754 16.6921C7.20026 16.8094 7.0412 16.8752 6.87535 16.8752C6.7095 16.8752 6.55044 16.8094 6.43316 16.6921C6.31588 16.5748 6.25 16.4157 6.25 16.2499C6.25 16.084 6.31588 15.925 6.43316 15.8077L12.2418 9.9999L6.43316 4.19208C6.37509 4.13402 6.32903 4.06508 6.2976 3.98921C6.26617 3.91334 6.25 3.83202 6.25 3.7499C6.25 3.66777 6.26617 3.58646 6.2976 3.51059C6.32903 3.43472 6.37509 3.36578 6.43316 3.30771C6.49123 3.24964 6.56017 3.20358 6.63604 3.17215C6.71191 3.14072 6.79323 3.12455 6.87535 3.12455C6.95747 3.12455 7.03879 3.14072 7.11466 3.17215C7.19053 3.20358 7.25947 3.24964 7.31753 3.30771Z" fill="#09090B"/></svg></button></div>
-						</form>
-<!-- /wp:html --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"100%"} -->
-<div class="wp-block-column" style="flex-basis:100%"><!-- wp:group {"style":{"spacing":{"blockGap":"0"},"layout":{"selfStretch":"fit","flexSize":null}},"fontSize":"base","layout":{"type":"flex","flexWrap":"wrap","verticalAlignment":"top","justifyContent":"space-between"}} -->
-<div class="wp-block-group has-base-font-size"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|6"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"typography":{"fontStyle":"normal","fontWeight":"400"}},"fontSize":"lg"} -->
-<h4 class="wp-block-heading has-lg-font-size" style="font-style:normal;font-weight:400">Shop by pet</h4>
-<!-- /wp:heading -->
-
-<!-- wp:navigation {"overlayMenu":"never","style":{"spacing":{"blockGap":"var:preset|spacing|3"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<!-- wp:navigation-link {"label":"Accessories","url":"#"} /-->
-
-<!-- wp:navigation-link {"label":"Toys \u0026amp; Games","url":"#"} /-->
-
-<!-- wp:navigation-link {"label":"Freeze dried","url":"#"} /-->
-
-<!-- wp:navigation-link {"label":"Dry food","url":"#"} /-->
-
-<!-- wp:navigation-link {"label":"Bundle \u0026amp; Save","url":"#"} /-->
-
-<!-- wp:navigation-link {"label":"Freshly crafted","url":"#"} /-->
-
-<!-- wp:navigation-link {"label":"Wet food","url":"#"} /-->
-<!-- /wp:navigation --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|6"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"typography":{"fontStyle":"normal","fontWeight":"400"}},"fontSize":"lg"} -->
-<h4 class="wp-block-heading has-lg-font-size" style="font-style:normal;font-weight:400">Information</h4>
-<!-- /wp:heading -->
-
-<!-- wp:navigation {"overlayMenu":"never","style":{"spacing":{"blockGap":"var:preset|spacing|3"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<!-- wp:navigation-link {"label":"About us","url":"#"} /-->
-
-<!-- wp:navigation-link {"label":"Blog","url":"#"} /-->
-
-<!-- wp:navigation-link {"label":"Contact","url":"#"} /-->
-<!-- /wp:navigation --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|6"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"typography":{"fontStyle":"normal","fontWeight":"400"}},"fontSize":"lg"} -->
-<h4 class="wp-block-heading has-lg-font-size" style="font-style:normal;font-weight:400">Social media</h4>
-<!-- /wp:heading -->
-
-<!-- wp:navigation {"overlayMenu":"never","style":{"spacing":{"blockGap":"var:preset|spacing|3"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<!-- wp:navigation-link {"label":"Instagram","url":"#"} /-->
-
-<!-- wp:navigation-link {"label":"Facebook","url":"#"} /-->
-
-<!-- wp:navigation-link {"label":"YouTube","url":"#"} /-->
-<!-- /wp:navigation --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:group {"align":"full","style":{"border":{"top":{"color":"var:preset|color|white-20","width":"1px"},"right":[],"bottom":[],"left":[]},"spacing":{"padding":{"top":"var:preset|spacing|6","bottom":"0"}}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
-<div class="wp-block-group alignfull" style="border-top-color:var(--wp--preset--color--white-20);border-top-width:1px;padding-top:var(--wp--preset--spacing--6);padding-bottom:0"><!-- wp:paragraph {"align":"center","fontSize":"base"} -->
-<p class="has-text-align-center has-base-font-size">© All rights reserved. Made by Createx Studio</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:navigation {"overlayMenu":"never","style":{"spacing":{"blockGap":"var:preset|spacing|6"}},"fontSize":"base","layout":{"type":"flex","orientation":"horizontal","justifyContent":"center"}} -->
-<!-- wp:navigation-link {"label":"Privacy","url":"#"} /-->
-
-<!-- wp:navigation-link {"label":"Affiliates","url":"#"} /-->
-
-<!-- wp:navigation-link {"label":"Terms of use","url":"#"} /-->
-<!-- /wp:navigation -->
-
-<!-- wp:gallery {"columns":4,"imageCrop":false,"linkTo":"none","style":{"spacing":{"blockGap":"var:preset|spacing|6"}}} -->
-<figure class="wp-block-gallery has-nested-images columns-4"><!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><a href="#"><img src="https://pawsome.madrasthemes.com/wp-content/themes/pawsome/assets/images/icons/logo-visa.svg" alt=""/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><a href="#"><img src="https://pawsome.madrasthemes.com/wp-content/themes/pawsome/assets/images/icons/logo-mastercard.svg" alt=""/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><a href="#"><img src="https://pawsome.madrasthemes.com/wp-content/themes/pawsome/assets/images/icons/logo-googlepay.svg" alt=""/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><a href="#"><img src="https://pawsome.madrasthemes.com/wp-content/themes/pawsome/assets/images/icons/logo-applepay.svg" alt=""/></a></figure>
-<!-- /wp:image --></figure>
-<!-- /wp:gallery --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>317</wp:post_id>
-  <wp:post_date>2025-12-15 13:32:22</wp:post_date>
-  <wp:post_date_gmt>2025-12-15 13:32:22</wp:post_date_gmt>
-  <wp:post_modified>2025-12-18 06:27:57</wp:post_modified>
-  <wp:post_modified_gmt>2025-12-18 06:27:57</wp:post_modified_gmt>
-  <wp:comment_status>closed</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>footer</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>wp_template_part</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="wp_template_part_area" nicename="footer"><![CDATA[footer]]></category>
-  <category domain="wp_theme" nicename="pawsome"><![CDATA[pawsome]]></category>
-  <wp:postmeta>
-    <wp:meta_key>origin</wp:meta_key>
-    <wp:meta_value><![CDATA[theme]]></wp:meta_value>
-  </wp:postmeta>
 </item>
 <item>
   <title><![CDATA[Page: Cart]]></title>
@@ -14631,6 +14276,73 @@ Perfect for solo chewing or interactive games like tug-of-war, this toy encourag
     <wp:meta_key>_price</wp:meta_key>
     <wp:meta_value><![CDATA[25]]></wp:meta_value>
   </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Primary Menu]]></title>
+  <link>http://pawsome.madrasthemes.com/primary-menu-copy/</link>
+  <pubDate>Fri, 02 Jan 2026 08:12:39 +0000</pubDate>
+  <dc:creator>pawsome</dc:creator>
+  <guid isPermaLink="false">https://pawsome.madrasthemes.com/primary-menu-copy/</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:navigation-submenu {"label":"Home","type":"page","url":"/","kind":"post-type"} -->
+<!-- wp:navigation-link {"label":"Home v1","type":"page","url":"/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Home v2","type":"page","url":"/home-v2/","kind":"post-type"} /-->
+<!-- /wp:navigation-submenu -->
+
+<!-- wp:navigation-submenu {"label":"Shop","type":"page","url":"#","kind":"post-type"} -->
+<!-- wp:navigation-link {"label":"Shop","type":"page","id":70,"url":"https://pawsome.madrasthemes.com/shop/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
+
+<!-- wp:navigation-link {"label":"Simple Product","url":"/product/soft-rope-toy-for-dogs/","kind":"custom"} /-->
+
+<!-- wp:navigation-link {"label":"Variable Product","type":"page","url":"/product/dry-food-with-chicken-beef/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Grouped Product","type":"page","url":"/product/daily-food-set-for-adult-dogs/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"External Product","type":"page","url":"/product/bone-treats-for-seniour-cats/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Out of stock Product","type":"page","url":"/product/dry-food-for-dog/","kind":"post-type"} /-->
+<!-- /wp:navigation-submenu -->
+
+<!-- wp:navigation-submenu {"label":"Category","type":"page","url":"#","kind":"post-type","className":"is-style-mega-menu"} -->
+<!-- /wp:navigation-submenu -->
+
+<!-- wp:navigation-submenu {"label":"Pages","type":"page","url":"#","kind":"post-type"} -->
+<!-- wp:navigation-link {"label":"Cart","type":"page","id":71,"url":"https://pawsome.madrasthemes.com/cart/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
+
+<!-- wp:navigation-link {"label":"Checkout","type":"page","id":72,"url":"https://pawsome.madrasthemes.com/checkout/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
+
+<!-- wp:navigation-link {"label":"About","type":"page","url":"/about/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Contact us","type":"page","url":"/contact-us/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Login","type":"page","id":73,"url":"https://pawsome.madrasthemes.com/my-account/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
+
+<!-- wp:navigation-link {"label":"404","type":"page","url":"/404","kind":"post-type"} /-->
+<!-- /wp:navigation-submenu -->
+
+<!-- wp:navigation-submenu {"label":"Blog","type":"page","url":"About%20us","kind":"post-type"} -->
+<!-- wp:navigation-link {"label":"Blog","type":"page","url":"/blog/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Blog Single","type":"link","url":"/why-dogs-eat-grass-and-whether-you-should-be-concerned-3/","kind":"custom"} /-->
+<!-- /wp:navigation-submenu -->
+
+<!-- wp:navigation-link {"label":"Contact us","type":"page","url":"/contact-us/","kind":"post-type"} /-->]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>438</wp:post_id>
+  <wp:post_date>2026-01-02 08:12:39</wp:post_date>
+  <wp:post_date_gmt>2026-01-02 08:12:39</wp:post_date_gmt>
+  <wp:post_modified>2026-01-02 08:13:13</wp:post_modified>
+  <wp:post_modified_gmt>2026-01-02 08:13:13</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>primary-menu-copy</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>wp_navigation</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
 </item>
   </channel>
 </rss>
