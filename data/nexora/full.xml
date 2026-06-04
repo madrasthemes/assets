@@ -6747,8 +6747,8 @@
 <!-- /wp:woocommerce/product-template -->
 
 <!-- wp:group {"style":{"spacing":{"margin":{"top":"21px"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right"}} -->
-<div class="wp-block-group" style="margin-top:21px"><!-- wp:woocommerce/product-gallery-large-image-next-previous {"className":"is-style-arrow-with-bottom-line-bar","layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-woocommerce-product-gallery-large-image-next-previous is-style-arrow-with-bottom-line-bar"></div>
+<div class="wp-block-group" style="margin-top:21px"><!-- wp:woocommerce/product-gallery-large-image-next-previous {"className":"is-style-product-carousel-offset-arrow","layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-woocommerce-product-gallery-large-image-next-previous is-style-product-carousel-offset-arrow"></div>
 <!-- /wp:woocommerce/product-gallery-large-image-next-previous --></div>
 <!-- /wp:group --></div>
 <!-- /wp:woocommerce/product-collection --></div>
