@@ -17,14 +17,14 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress/7.1.3" created="2026-11-27 08:59" -->
-<!-- Voire demo content for One Click Demo Import, built by pnpm demo:ocdi from feat/ocdi-admin-design 3ada130 with uncommitted changes. The product and post images link the live demo's photographs on the CDN; every other image is a plain placeholder. -->
+<!-- generator="WordPress/7.1.3" created="2026-11-27 12:47" -->
+<!-- Voire demo content for One Click Demo Import, built by pnpm demo:ocdi from fix/ocdi-placeholders-on-cdn 8ceabe2 with uncommitted changes. Every image links one of the live demo's photographs on the CDN: the products', the posts' and the product categories'. -->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Voiré</title>
 <link>https://voire.madrasthemes.com</link>
 <description/>
-<pubDate>Fri, 27 Nov 2026 08:59:13 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 12:47:52 +0000</pubDate>
 <language>en-US</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>https://voire.madrasthemes.com</wp:base_site_url>
@@ -77871,7 +77871,7 @@
   <link>https://voire.madrasthemes.com/tops/</link>
   <pubDate>Thu, 24 Sep 2026 11:59:19 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">https://madrasthemes.github.io/assets/data/voire/wp-content/uploads/2026/09/category-tops.webp</guid>
+  <guid isPermaLink="false">https://cdn.madrasthemes.com/voire/images/category-images/tops.webp</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -77889,7 +77889,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://madrasthemes.github.io/assets/data/voire/wp-content/uploads/2026/09/category-tops.webp</wp:attachment_url>
+  <wp:attachment_url><![CDATA[https://cdn.madrasthemes.com/voire/images/category-images/tops.webp]]></wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[2026/09/category-tops.webp]]></wp:meta_value>
@@ -77904,7 +77904,7 @@
   <link>https://voire.madrasthemes.com/bottoms/</link>
   <pubDate>Thu, 24 Sep 2026 11:59:19 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">https://madrasthemes.github.io/assets/data/voire/wp-content/uploads/2026/09/category-bottoms.webp</guid>
+  <guid isPermaLink="false">https://cdn.madrasthemes.com/voire/images/category-images/bottoms.webp</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -77922,7 +77922,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://madrasthemes.github.io/assets/data/voire/wp-content/uploads/2026/09/category-bottoms.webp</wp:attachment_url>
+  <wp:attachment_url><![CDATA[https://cdn.madrasthemes.com/voire/images/category-images/bottoms.webp]]></wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[2026/09/category-bottoms.webp]]></wp:meta_value>
@@ -77937,7 +77937,7 @@
   <link>https://voire.madrasthemes.com/dresses/</link>
   <pubDate>Thu, 24 Sep 2026 11:59:20 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">https://madrasthemes.github.io/assets/data/voire/wp-content/uploads/2026/09/category-dresses.webp</guid>
+  <guid isPermaLink="false">https://cdn.madrasthemes.com/voire/images/category-images/dresses.webp</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -77955,7 +77955,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://madrasthemes.github.io/assets/data/voire/wp-content/uploads/2026/09/category-dresses.webp</wp:attachment_url>
+  <wp:attachment_url><![CDATA[https://cdn.madrasthemes.com/voire/images/category-images/dresses.webp]]></wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[2026/09/category-dresses.webp]]></wp:meta_value>
@@ -77970,7 +77970,7 @@
   <link>https://voire.madrasthemes.com/outerwear/</link>
   <pubDate>Thu, 24 Sep 2026 11:59:20 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">https://madrasthemes.github.io/assets/data/voire/wp-content/uploads/2026/09/category-outerwear.webp</guid>
+  <guid isPermaLink="false">https://cdn.madrasthemes.com/voire/images/category-images/outerwear.webp</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -77988,7 +77988,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://madrasthemes.github.io/assets/data/voire/wp-content/uploads/2026/09/category-outerwear.webp</wp:attachment_url>
+  <wp:attachment_url><![CDATA[https://cdn.madrasthemes.com/voire/images/category-images/outerwear.webp]]></wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[2026/09/category-outerwear.webp]]></wp:meta_value>
@@ -78003,7 +78003,7 @@
   <link>https://voire.madrasthemes.com/bags/</link>
   <pubDate>Thu, 24 Sep 2026 11:59:20 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">https://madrasthemes.github.io/assets/data/voire/wp-content/uploads/2026/09/category-bags.webp</guid>
+  <guid isPermaLink="false">https://cdn.madrasthemes.com/voire/images/category-images/bags.webp</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -78021,7 +78021,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://madrasthemes.github.io/assets/data/voire/wp-content/uploads/2026/09/category-bags.webp</wp:attachment_url>
+  <wp:attachment_url><![CDATA[https://cdn.madrasthemes.com/voire/images/category-images/bags.webp]]></wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[2026/09/category-bags.webp]]></wp:meta_value>
@@ -78036,7 +78036,7 @@
   <link>https://voire.madrasthemes.com/shoes/</link>
   <pubDate>Thu, 24 Sep 2026 11:59:20 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">https://madrasthemes.github.io/assets/data/voire/wp-content/uploads/2026/09/category-shoes.webp</guid>
+  <guid isPermaLink="false">https://cdn.madrasthemes.com/voire/images/category-images/shoes.webp</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -78054,7 +78054,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://madrasthemes.github.io/assets/data/voire/wp-content/uploads/2026/09/category-shoes.webp</wp:attachment_url>
+  <wp:attachment_url><![CDATA[https://cdn.madrasthemes.com/voire/images/category-images/shoes.webp]]></wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[2026/09/category-shoes.webp]]></wp:meta_value>
@@ -78069,7 +78069,7 @@
   <link>https://voire.madrasthemes.com/accessories/</link>
   <pubDate>Thu, 24 Sep 2026 11:59:21 +0000</pubDate>
   <dc:creator/>
-  <guid isPermaLink="false">https://madrasthemes.github.io/assets/data/voire/wp-content/uploads/2026/09/category-accessories.webp</guid>
+  <guid isPermaLink="false">https://cdn.madrasthemes.com/voire/images/category-images/accessories.webp</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -78087,7 +78087,7 @@
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://madrasthemes.github.io/assets/data/voire/wp-content/uploads/2026/09/category-accessories.webp</wp:attachment_url>
+  <wp:attachment_url><![CDATA[https://cdn.madrasthemes.com/voire/images/category-images/accessories.webp]]></wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[2026/09/category-accessories.webp]]></wp:meta_value>
